@@ -1,0 +1,4 @@
+Matrix completion
+Multidimensional scaling
+avg / std of each user
+8 subbands, get values for each onset, merge together

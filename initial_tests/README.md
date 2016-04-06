@@ -1,0 +1,1 @@
+This file is a mishmash of various tests I've run and code I've written that is associated with my work. It is not organized at all. Feel free to look through it, and if you have any questions / want to try and get parts of it running, let me know and I'll help out.

@@ -1,0 +1,9 @@
+HFC
+local average
+HFC - local average (subtraction) 
+positive average
+local peaks
+time between peaks
+peak threshold ?
+look ahead around 1s, calc all diffs in time. eg, peak 1 -> 2, peak 1 -> 3, etc?
+look ahead to N peaks?

@@ -1,0 +1,1776 @@
+-2.67716796769e-05	Standard Deviation of Partial Based Spectral Centroid Std overall
+4.15113527518e-05	Derivative of Running Mean of LPC [8] Avg overall
+-5.51275207143e-05	MFCC [10] Std rhythm
+-0.000212802989057	Running Mean of Partial Based Spectral Centroid Std overall
+0.000550252425879	Partial Based Spectral Centroid Std rhythm
+0.000562112363085	Standard Deviation of Spectral Flux Avg tonal
+-0.000614741555045	Derivative of Standard Deviation of Relative Difference Function Std overall
+0.000699344385208	Running Mean of Spectral Flux Avg tonal
+-0.00072791538478	Running Mean of Fraction Of Low Energy Windows Std tonal
+0.000885895833246	Derivative of Standard Deviation of Spectral Flux Avg rhythm
+-0.000886886840743	Standard Deviation of Fraction Of Low Energy Windows Std tonal
+-0.00107955962383	Standard Deviation of Relative Difference Function Avg tonal
+-0.00115076994116	LPC [1] Avg tonal
+0.00118504400053	Derivative of Running Mean of Spectral Flux Avg rhythm
+-0.00118554937968	Derivative of Running Mean of Relative Difference Function Std overall
+0.00121173046426	Derivative of Running Mean of Strongest Frequency Via FFT Maximum Std tonal
+0.00122196522851	Derivative of MFCC [4] Avg rhythm
+0.00133480503807	Running Mean of Relative Difference Function Avg tonal
+-0.00138140780312	MFCC [0] Avg overall
+-0.00168405125286	Standard Deviation of Beat Sum Std rhythm
+-0.00171559745934	Running Mean of Beat Sum Std rhythm
+0.00194262064128	Derivative of Standard Deviation of Strongest Frequency Via FFT Maximum Std tonal
+-0.00215298515569	Running Mean of MFCC [2] Std tonal
+-0.00238976483178	Derivative of Area Method of Moments [0] Avg rhythm
+-0.00276848802153	Relative Difference Function Std rhythm
+-0.00287052174577	Derivative of Method of Moments [3] Avg overall
+0.00352581617505	Standard Deviation of MFCC [0] Avg overall
+0.00358942531272	Derivative of Running Mean of Spectral Rolloff Point Std rhythm
+0.00368798644692	Derivative of Standard Deviation of Spectral Rolloff Point Std rhythm
+-0.00382321785534	Running Mean of MFCC [0] Avg overall
+-0.00384199462194	Derivative of Area Method of Moments [2] Std rhythm
+0.00389809875231	Standard Deviation of Strongest Frequency Via FFT Maximum Avg tonal
+-0.00392402331002	Running Mean of Strength Of Strongest Beat Avg rhythm
+-0.00392402331002	Standard Deviation of Strength Of Strongest Beat Avg rhythm
+0.00393342951287	Derivative of Running Mean of Strength Of Strongest Beat Std rhythm
+0.00393342951287	Derivative of Standard Deviation of Strength Of Strongest Beat Std rhythm
+0.00393987187212	Running Mean of Strongest Frequency Via FFT Maximum Avg tonal
+-0.00419154893691	Method of Moments [4] Std overall
+0.00423310731633	Method of Moments [0] Std overall
+-0.00425796115159	Derivative of Beat Sum Avg rhythm
+0.00447305771602	Spectral Flux Avg tonal
+0.00465577313269	Derivative of Spectral Flux Std tonal
+0.00473639612858	Relative Difference Function Std overall
+-0.00481122324561	MFCC [2] Avg overall
+-0.00492716743912	Beat Sum Std rhythm
+0.00495423511594	Derivative of MFCC [4] Std tonal
+-0.00534714463632	Derivative of Running Mean of Method of Moments [0] Std tonal
+-0.00545371712891	Running Mean of LPC [6] Avg overall
+-0.00548268076985	Derivative of Standard Deviation of Method of Moments [0] Std tonal
+-0.00551908317212	Strongest Frequency Via FFT Maximum Avg tonal
+0.00567490153775	Method of Moments [3] Std overall
+-0.00585151190078	Derivative of Relative Difference Function Std rhythm
+-0.00588702893685	Strongest Frequency Via FFT Maximum Std tonal
+-0.00592777317075	Derivative of LPC [2] Std tonal
+-0.00593271416149	Running Mean of Spectral Variability Std overall
+-0.00609063116975	Standard Deviation of Spectral Variability Std overall
+-0.00619583697101	Derivative of Area Method of Moments [8] Avg tonal
+-0.00631826494599	Running Mean of MFCC [6] Std rhythm
+0.00636318931117	Derivative of Area Method of Moments [5] Avg tonal
+0.0063781439441	Derivative of Strongest Frequency Via Spectral Centroid Avg rhythm
+0.00638194491722	Derivative of Spectral Centroid Avg rhythm
+-0.00654658966515	Running Mean of MFCC [8] Std tonal
+-0.00680717327459	Running Mean of MFCC [2] Avg overall
+-0.00690192377767	Running Mean of Spectral Flux Std overall
+0.00699039272693	Running Mean of MFCC [4] Avg overall
+-0.0070460346851	Derivative of Running Mean of Relative Difference Function Avg tonal
+0.00713967428388	Relative Difference Function Avg tonal
+0.00717791264757	Derivative of Standard Deviation of Relative Difference Function Avg tonal
+-0.00735519684433	Derivative of Strongest Frequency Via FFT Maximum Std tonal
+-0.00744767734376	Standard Deviation of Spectral Flux Std overall
+-0.00777244283721	Running Mean of MFCC [11] Avg rhythm
+0.00796808640532	Derivative of Running Mean of Method of Moments [0] Avg rhythm
+0.00800678890547	Running Mean of MFCC [10] Avg overall
+0.0080582641921	Derivative of Standard Deviation of Method of Moments [0] Avg rhythm
+0.00843931295564	LPC [8] Std tonal
+0.00859604900212	Peak Based Spectral Smoothness Std rhythm
+0.0086379169779	Derivative of Spectral Variability Std tonal
+0.00870286415977	Derivative of Running Mean of MFCC [5] Avg overall
+-0.00881693980579	Derivative of Running Mean of Area Method of Moments [8] Avg tonal
+-0.00881693980579	Derivative of Standard Deviation of Area Method of Moments [8] Avg tonal
+0.00890148961558	Derivative of Running Mean of Area Method of Moments [5] Avg tonal
+-0.00890148961558	Derivative of Standard Deviation of Area Method of Moments [5] Avg tonal
+0.00895400819068	Derivative of Standard Deviation of MFCC [1] Avg rhythm
+0.00908308060172	Derivative of Running Mean of MFCC [1] Avg rhythm
+-0.00908641017737	Strength Of Strongest Beat Avg rhythm
+0.00909065137301	Running Mean of LPC [1] Avg tonal
+0.00921514980255	Derivative of Fraction Of Low Energy Windows Std tonal
+-0.00928671777173	Derivative of Running Mean of MFCC [2] Std overall
+0.00952406113427	Spectral Rolloff Point Std rhythm
+-0.00954805713841	Derivative of Running Mean of Root Mean Square Avg rhythm
+-0.00955059091809	Area Method of Moments of MFCCs [5] Std rhythm
+-0.00970301180575	Derivative of Standard Deviation of Root Mean Square Avg rhythm
+-0.00971516594397	Strength Of Strongest Beat Std overall
+-0.00971672235249	Area Method of Moments of MFCCs [8] Std rhythm
+-0.0100073001945	Derivative of Area Method of Moments [0] Std overall
+0.0100526502944	Derivative of Running Mean of LPC [2] Std tonal
+0.0100830076116	MFCC [10] Avg overall
+-0.0101540010714	Running Mean of MFCC [4] Std overall
+-0.0102782188266	MFCC [11] Avg rhythm
+0.0107383462744	MFCC [4] Avg overall
+-0.0107810388248	Running Mean of LPC [2] Std tonal
+-0.0108361256702	Standard Deviation of Method of Moments [2] Std rhythm
+-0.0109051248585	Running Mean of Method of Moments [2] Std rhythm
+-0.0110097377225	LPC [6] Avg overall
+0.0112485195491	Derivative of Standard Deviation of Area Method of Moments [0] Avg rhythm
+0.0113077680561	MFCC [2] Std rhythm
+0.0113235784518	Derivative of Running Mean of Area Method of Moments [0] Avg rhythm
+-0.011399088882	Derivative of Spectral Variability Avg overall
+0.01173222579	Relative Difference Function Std tonal
+0.0120603041859	LPC [6] Avg rhythm
+-0.0121692669785	Derivative of Running Mean of MFCC [6] Avg rhythm
+-0.0122537555509	Derivative of Standard Deviation of Method of Moments [3] Std overall
+-0.0123719017516	Derivative of Running Mean of Method of Moments [3] Std overall
+0.0125486496844	Running Mean of MFCC [8] Avg tonal
+-0.0125999530346	Running Mean of LPC [3] Std tonal
+-0.0126620855242	Area Method of Moments [0] Std rhythm
+0.0128926789171	Running Mean of MFCC [7] Std rhythm
+0.0130782050955	Derivative of Relative Difference Function Std overall
+0.0131279318196	Running Mean of Beat Sum Std overall
+0.013141133922	Standard Deviation of Beat Sum Std overall
+-0.0132255675871	Area Method of Moments [8] Std tonal
+0.0132745412362	Running Mean of LPC [2] Std overall
+0.0133514017286	MFCC [1] Avg rhythm
+-0.0133687922345	Area Method of Moments [5] Std tonal
+-0.0134356153037	MFCC [1] Std overall
+0.0140714617596	Running Mean of MFCC [1] Avg rhythm
+0.0141025558385	Standard Deviation of MFCC [1] Avg rhythm
+-0.0143521185583	Derivative of Compactness Std tonal
+-0.0145105490377	LPC [6] Std tonal
+-0.014663244763	Running Mean of Area Method of Moments [5] Std tonal
+-0.014663244763	Standard Deviation of Area Method of Moments [5] Std tonal
+-0.0147368006833	Standard Deviation of Area Method of Moments [8] Std tonal
+-0.0147368006833	Running Mean of Area Method of Moments [8] Std tonal
+-0.0148210543995	Derivative of Running Mean of Peak Based Spectral Smoothness Std rhythm
+-0.0149828913575	Derivative of Standard Deviation of Beat Sum Std rhythm
+-0.0150249754594	Derivative of Running Mean of Beat Sum Std rhythm
+-0.0152556179954	Derivative of Standard Deviation of Peak Based Spectral Smoothness Std rhythm
+0.0160230437128	Derivative of Root Mean Square Avg overall
+-0.0163544559847	MFCC [9] Avg tonal
+0.0163949950885	Derivative of Standard Deviation of Fraction Of Low Energy Windows Avg rhythm
+0.0164028305244	Derivative of Running Mean of Fraction Of Low Energy Windows Avg rhythm
+0.0166230072741	Derivative of Running Mean of LPC [1] Avg tonal
+-0.0170443968904	Derivative of Compactness Avg tonal
+0.0172003313376	Derivative of Standard Deviation of Spectral Rolloff Point Avg overall
+0.0173116801543	Running Mean of LPC [6] Std tonal
+0.0174418947094	Derivative of Standard Deviation of Beat Sum Avg overall
+0.0174451731351	Derivative of Running Mean of Beat Sum Avg overall
+-0.0174577495051	Strongest Beat Avg tonal
+0.017784060448	Derivative of Running Mean of Spectral Rolloff Point Avg overall
+-0.0178635886537	MFCC [5] Std tonal
+0.017946503713	Derivative of LPC [5] Std tonal
+0.0182456694308	Derivative of Area Method of Moments [0] Std rhythm
+-0.0186979271087	Running Mean of Root Mean Square Std overall
+0.0187237617516	MFCC [8] Avg tonal
+0.0188056879842	Running Mean of Strongest Frequency Via FFT Maximum Std tonal
+0.0188229984941	Standard Deviation of Strongest Frequency Via Spectral Centroid Std overall
+-0.0189108398245	Standard Deviation of Root Mean Square Std overall
+-0.0189220382033	Running Mean of MFCC [9] Avg tonal
+0.0190323456439	Standard Deviation of Spectral Centroid Std overall
+0.0190424221966	Running Mean of Spectral Centroid Std overall
+0.0190593224633	Running Mean of Strongest Frequency Via Spectral Centroid Std overall
+0.0192519669743	Derivative of Running Mean of MFCC [9] Avg overall
+-0.0192576511849	Derivative of Running Mean of MFCC [6] Std tonal
+-0.0194423860877	Running Mean of Fraction Of Low Energy Windows Std overall
+0.0194690390988	Running Mean of MFCC [4] Std tonal
+0.0195086460441	Standard Deviation of Strongest Frequency Via FFT Maximum Std tonal
+-0.0195946714308	Standard Deviation of Fraction Of Low Energy Windows Std overall
+-0.0197726489037	Standard Deviation of Strongest Beat Avg tonal
+-0.0198200740051	Running Mean of Strongest Beat Avg tonal
+-0.0198492728829	Derivative of Running Mean of MFCC [6] Avg tonal
+0.0198801433843	Derivative of Running Mean of Beat Sum Std overall
+0.0199194838599	Derivative of Standard Deviation of Beat Sum Std overall
+-0.0199634354401	Derivative of Standard Deviation of Method of Moments [4] Std overall
+0.0203166496321	Derivative of Standard Deviation of Spectral Flux Std tonal
+0.0203733402823	Derivative of Running Mean of Spectral Flux Std tonal
+-0.0204456942439	Derivative of MFCC [12] Std tonal
+-0.020458234384	Derivative of Running Mean of Method of Moments [4] Std overall
+0.0205193175246	Derivative of MFCC [5] Avg tonal
+-0.0207958570323	Derivative of Running Mean of MFCC [7] Avg tonal
+0.0208274145142	Running Mean of MFCC [11] Std overall
+-0.0209135825727	Derivative of Running Mean of Zero Crossings Avg overall
+-0.0209366217198	Derivative of Running Mean of Strongest Frequency Via Zero Crossings Avg overall
+0.0210067290323	Derivative of Strength Of Strongest Beat Avg tonal
+-0.0211339077384	Derivative of Standard Deviation of Strongest Frequency Via Zero Crossings Avg overall
+-0.0211635361034	Derivative of Standard Deviation of Zero Crossings Avg overall
+-0.0215017582422	Derivative of Running Mean of MFCC [6] Avg overall
+-0.0215582388379	Compactness Std tonal
+-0.0218660704715	Derivative of Running Mean of MFCC [10] Std rhythm
+-0.0222259576723	Derivative of Strongest Beat Avg overall
+0.022356809577	Beat Sum Std overall
+0.0225136665506	Running Mean of MFCC [2] Avg tonal
+-0.0225476024766	Derivative of Standard Deviation of Relative Difference Function Std rhythm
+-0.022747008828	Derivative of Running Mean of Relative Difference Function Std rhythm
+-0.0230002045882	Running Mean of MFCC [11] Std tonal
+0.0231158643635	Running Mean of LPC [6] Avg rhythm
+0.0231478380688	LPC [2] Std tonal
+0.0236601741016	Running Mean of MFCC [10] Std tonal
+-0.0236785168147	Derivative of Running Mean of Compactness Std tonal
+-0.0237533834721	Running Mean of Fraction Of Low Energy Windows Std rhythm
+-0.0237936156034	Derivative of Standard Deviation of Compactness Std tonal
+0.0238225491304	Derivative of Standard Deviation of Method of Moments [1] Avg rhythm
+-0.0238259562711	Standard Deviation of Fraction Of Low Energy Windows Std rhythm
+0.0238538566282	Derivative of Running Mean of Method of Moments [4] Avg tonal
+0.0239329272785	Derivative of Standard Deviation of Method of Moments [4] Avg tonal
+0.0239475067341	Derivative of Running Mean of Method of Moments [1] Avg rhythm
+0.0240129433789	Running Mean of LPC [7] Avg tonal
+-0.0243107509305	Derivative of MFCC [1] Avg overall
+0.0244098094584	Derivative of LPC [0] Avg rhythm
+0.0244510856866	Standard Deviation of Beat Sum Std tonal
+0.0244714140003	Running Mean of Beat Sum Std tonal
+0.0245680380907	Running Mean of LPC [2] Std rhythm
+-0.0246233502919	Derivative of Running Mean of Beat Sum Avg rhythm
+-0.0246288232206	Derivative of Standard Deviation of Beat Sum Avg rhythm
+-0.0247388215894	Derivative of Standard Deviation of Partial Based Spectral Centroid Std rhythm
+-0.0248153223834	Running Mean of MFCC [5] Std tonal
+-0.0248679605808	Derivative of Running Mean of Partial Based Spectral Centroid Std rhythm
+-0.0250194363392	Derivative of Running Mean of LPC [5] Avg rhythm
+-0.0251598654351	Derivative of MFCC [5] Std overall
+-0.0251740579886	Running Mean of MFCC [2] Avg rhythm
+0.0253423880347	LPC [7] Avg tonal
+0.02541836707	Root Mean Square Avg tonal
+0.0257917616232	Derivative of Standard Deviation of Area Method of Moments [0] Std tonal
+0.0258145405979	Derivative of Running Mean of Area Method of Moments [0] Std tonal
+-0.02583795377	Derivative of Running Mean of MFCC [1] Std overall
+0.0259443117015	Derivative of Running Mean of LPC [8] Avg rhythm
+0.0260528435543	Derivative of MFCC [0] Std overall
+0.0260641928904	Derivative of Standard Deviation of Area Method of Moments [1] Std overall
+0.0260641928904	Derivative of Running Mean of Area Method of Moments [1] Std overall
+0.0260656638445	Running Mean of LPC [5] Std overall
+-0.0261027815656	Derivative of Standard Deviation of MFCC [1] Std overall
+0.0261332114277	Standard Deviation of Beat Sum Avg tonal
+0.0261488779631	Running Mean of Beat Sum Avg tonal
+0.0264799314289	Derivative of Root Mean Square Std tonal
+0.0265170516286	Running Mean of MFCC [9] Std overall
+0.0266925358766	Derivative of Running Mean of Method of Moments [3] Avg tonal
+-0.0267163741252	LPC [4] Avg rhythm
+-0.0267271395599	Derivative of Running Mean of Peak Based Spectral Smoothness Avg overall
+0.0267755871311	Derivative of Standard Deviation of Method of Moments [3] Avg tonal
+0.0268221329229	Standard Deviation of Root Mean Square Avg tonal
+0.0270456147193	Running Mean of Root Mean Square Avg tonal
+0.0270607971619	Derivative of Standard Deviation of Root Mean Square Avg overall
+-0.0271015554203	Running Mean of MFCC [4] Std rhythm
+0.0271988813608	Derivative of Running Mean of Root Mean Square Avg overall
+0.0272668588828	Derivative of Standard Deviation of Spectral Variability Avg overall
+0.0272926267744	MFCC [7] Avg rhythm
+-0.0273306273234	Derivative of Standard Deviation of Peak Based Spectral Smoothness Avg overall
+0.0274289094028	Derivative of Running Mean of Spectral Variability Avg overall
+-0.027527164084	Running Mean of LPC [0] Std overall
+-0.0275644269543	Standard Deviation of LPC [0] Std overall
+-0.027587299067	LPC [1] Std overall
+-0.0276100353495	Derivative of Running Mean of MFCC [5] Std tonal
+-0.0276891860919	Derivative of Standard Deviation of Method of Moments [4] Avg overall
+-0.0276977999811	Derivative of Running Mean of Method of Moments [4] Avg overall
+-0.0277680399945	Derivative of Running Mean of Spectral Variability Avg rhythm
+-0.0279143224671	Derivative of Standard Deviation of Spectral Variability Avg rhythm
+0.0279596562812	Beat Sum Avg tonal
+-0.0279670038458	MFCC [4] Std overall
+0.028259489272	Derivative of Running Mean of LPC [4] Std tonal
+-0.0283176939584	MFCC [2] Avg rhythm
+0.0286121469964	Derivative of Running Mean of MFCC [8] Avg tonal
+0.0287224452697	Derivative of Running Mean of Relative Difference Function Std tonal
+0.0289326483004	Derivative of Running Mean of LPC [4] Avg tonal
+0.0290003790187	Derivative of Standard Deviation of MFCC [0] Avg tonal
+-0.0291832163848	Derivative of Running Mean of MFCC [0] Avg tonal
+0.0293089974499	Derivative of Area Method of Moments [2] Std overall
+0.0294163938814	Derivative of Standard Deviation of Relative Difference Function Std tonal
+0.0294279049102	Running Mean of LPC [4] Std tonal
+0.0294329633578	Spectral Flux Std tonal
+-0.0295050815497	MFCC [9] Std tonal
+0.0297786424556	Derivative of Running Mean of MFCC [12] Avg rhythm
+-0.0297989945402	Area Method of Moments of MFCCs [7] Std rhythm
+-0.0299416134714	Area Method of Moments of MFCCs [4] Std rhythm
+0.0299736498135	Derivative of Relative Difference Function Std tonal
+-0.0300415682902	LPC [5] Avg overall
+0.030127900625	MFCC [2] Avg tonal
+0.0302689380295	Derivative of MFCC [1] Std tonal
+0.0309724551686	Running Mean of MFCC [8] Std overall
+0.0310485658884	Derivative of Running Mean of Area Method of Moments [1] Avg tonal
+0.0310485658884	Derivative of Standard Deviation of Area Method of Moments [1] Avg tonal
+0.0311531768747	Running Mean of MFCC [7] Avg rhythm
+-0.0312133625329	Derivative of MFCC [3] Avg tonal
+-0.0316516339955	Running Mean of LPC [5] Avg overall
+0.0319369495111	Derivative of Method of Moments [2] Avg tonal
+-0.0325157502367	Running Mean of Strongest Frequency Via FFT Maximum Std overall
+0.032618356611	Derivative of Standard Deviation of Spectral Centroid Avg overall
+0.0326367282953	Derivative of Standard Deviation of Strongest Frequency Via Spectral Centroid Avg overall
+0.0328089791795	Derivative of Running Mean of Strongest Frequency Via Spectral Centroid Avg overall
+0.0328426840609	Derivative of Running Mean of Spectral Centroid Avg overall
+-0.0328938537266	Standard Deviation of Strongest Frequency Via FFT Maximum Std overall
+-0.0329358427482	Derivative of MFCC [5] Avg overall
+-0.0335926534146	Running Mean of LPC [4] Avg rhythm
+-0.033699706888	Derivative of Standard Deviation of Method of Moments [3] Avg overall
+-0.0337098126412	Derivative of Running Mean of Method of Moments [3] Avg overall
+-0.0342339676466	Derivative of Standard Deviation of Strength Of Strongest Beat Avg rhythm
+0.0342344135923	Standard Deviation of LPC [0] Std rhythm
+-0.0342455267133	Derivative of Running Mean of Strength Of Strongest Beat Avg rhythm
+0.0342566128294	Running Mean of LPC [0] Std rhythm
+0.0343591098863	MFCC [2] Std overall
+-0.0344951117731	Derivative of Fraction Of Low Energy Windows Std overall
+0.0345801762888	Running Mean of MFCC [3] Std rhythm
+-0.0346156142486	Zero Crossings Std rhythm
+-0.03469052641	Strongest Frequency Via Zero Crossings Std rhythm
+0.0348486818608	Derivative of MFCC [3] Std tonal
+-0.0348688501594	LPC [6] Avg tonal
+0.0349561817894	Method of Moments [0] Std rhythm
+-0.0349715066143	Derivative of Running Mean of LPC [8] Avg tonal
+-0.0352770405667	Derivative of Method of Moments [4] Avg tonal
+0.03541070222	Derivative of Beat Sum Avg overall
+-0.0356508197997	Derivative of Running Mean of LPC [2] Avg rhythm
+-0.0357825308577	Derivative of MFCC [1] Std overall
+0.0359305544554	Derivative of Running Mean of MFCC [7] Std rhythm
+0.0361389304087	MFCC [6] Std tonal
+0.0366146264793	Standard Deviation of MFCC [1] Std rhythm
+0.0366600616717	Derivative of Strongest Beat Std overall
+0.0367609296576	Running Mean of MFCC [1] Std rhythm
+0.0372562986854	Derivative of Relative Difference Function Avg tonal
+0.0374799070525	Derivative of MFCC [10] Avg tonal
+-0.0376517153517	Running Mean of Spectral Flux Std rhythm
+-0.0377370423525	Standard Deviation of Spectral Flux Std rhythm
+-0.0378567641951	Running Mean of Method of Moments [0] Std rhythm
+-0.0378936449324	Standard Deviation of Method of Moments [0] Std rhythm
+0.0380660928338	Derivative of Running Mean of LPC [0] Avg rhythm
+-0.038085277937	Derivative of Standard Deviation of LPC [0] Avg rhythm
+0.0382584997412	Spectral Variability Avg tonal
+0.0384009080814	Standard Deviation of Spectral Flux Std tonal
+-0.0385414004421	MFCC [6] Avg tonal
+0.0385759046215	Derivative of MFCC [3] Std rhythm
+0.0387359274541	Standard Deviation of Strongest Beat Std overall
+0.0387711456336	Running Mean of Strongest Beat Std overall
+0.0388863623692	Running Mean of LPC [6] Std rhythm
+0.0389584611355	Standard Deviation of Spectral Variability Avg tonal
+0.0390905018547	Running Mean of Spectral Variability Avg tonal
+0.0390986687962	Derivative of Running Mean of Strongest Frequency Via FFT Maximum Avg overall
+0.0392066567058	Running Mean of Spectral Flux Std tonal
+0.0393288814827	Derivative of Standard Deviation of Strongest Frequency Via FFT Maximum Avg overall
+-0.0393649157393	Derivative of MFCC [2] Avg overall
+-0.0394009248422	Running Mean of Area Method of Moments [0] Std rhythm
+-0.039457612075	Standard Deviation of Area Method of Moments [0] Std rhythm
+-0.0397690311889	Derivative of Running Mean of LPC [6] Std tonal
+0.0398343141002	Running Mean of MFCC [3] Avg tonal
+-0.0400697510197	Method of Moments [0] Std tonal
+-0.0401710098305	Derivative of Method of Moments [0] Std tonal
+0.0402389753683	Running Mean of MFCC [6] Std overall
+-0.0404248382228	Running Mean of LPC [6] Avg tonal
+-0.0404734398583	Standard Deviation of Compactness Std tonal
+-0.0405755122321	Peak Based Spectral Smoothness Avg rhythm
+-0.040588739211	Running Mean of Compactness Std tonal
+-0.0406458937205	Derivative of Running Mean of Fraction Of Low Energy Windows Avg overall
+-0.0406474561892	Derivative of Standard Deviation of Fraction Of Low Energy Windows Avg overall
+0.0406687309784	Derivative of Standard Deviation of Partial Based Spectral Centroid Avg rhythm
+-0.0406711656267	Derivative of MFCC [4] Std overall
+-0.0409460680301	Derivative of Running Mean of Method of Moments [1] Avg overall
+-0.041053711022	Derivative of Standard Deviation of Method of Moments [1] Avg overall
+0.0411446528309	MFCC [3] Avg tonal
+0.0411558946659	Derivative of Method of Moments [1] Std tonal
+0.0411765616102	Derivative of Area Method of Moments [1] Std overall
+0.0412996739694	Derivative of Running Mean of Partial Based Spectral Centroid Avg rhythm
+0.0413436260878	Running Mean of Method of Moments [1] Std rhythm
+0.041345235341	Derivative of Running Mean of MFCC [10] Avg overall
+0.0413627560832	Derivative of Method of Moments [0] Avg rhythm
+0.0413811139989	Running Mean of LPC [6] Std overall
+-0.0415314045392	Derivative of Area Method of Moments [0] Std tonal
+0.0415606102723	Standard Deviation of Method of Moments [1] Std rhythm
+-0.0422137963833	Derivative of Running Mean of MFCC [0] Std overall
+-0.0423799841646	Running Mean of MFCC [6] Avg tonal
+-0.0424868829309	Derivative of Standard Deviation of Method of Moments [2] Avg tonal
+-0.0425886163759	Derivative of Running Mean of Method of Moments [2] Avg tonal
+0.042710480917	MFCC [2] Std tonal
+-0.0428553009796	Derivative of MFCC [12] Avg rhythm
+0.0430518987259	Running Mean of MFCC [11] Std rhythm
+-0.0432172895731	Derivative of Standard Deviation of MFCC [0] Std overall
+-0.0433717689433	MFCC [11] Avg overall
+0.0435455961892	Running Mean of MFCC [8] Std rhythm
+0.0435892179188	Method of Moments [0] Avg overall
+-0.0436268698808	Derivative of MFCC [9] Avg tonal
+-0.0436372114434	Running Mean of MFCC [11] Avg overall
+0.0436614841654	Derivative of Running Mean of LPC [2] Avg overall
+0.0437093353103	Derivative of Standard Deviation of LPC [0] Avg overall
+0.0437097611126	Area Method of Moments [0] Avg overall
+-0.0437506865458	Derivative of Running Mean of LPC [0] Avg overall
+0.0438144986427	Derivative of Method of Moments [0] Std overall
+-0.0439893118944	Derivative of Method of Moments [3] Std overall
+-0.0442991646707	Running Mean of MFCC [7] Avg overall
+0.0443834452696	Beat Sum Std tonal
+0.0444017346188	Standard Deviation of Strength Of Strongest Beat Std tonal
+0.0444017346188	Running Mean of Strength Of Strongest Beat Std tonal
+-0.0444984143062	Derivative of LPC [8] Std tonal
+-0.044718686248	MFCC [7] Avg overall
+-0.0448904533252	Area Method of Moments [0] Std overall
+0.0451102696667	Derivative of Strength Of Strongest Beat Std rhythm
+-0.0451376281475	Standard Deviation of Relative Difference Function Std tonal
+-0.0451429332399	Running Mean of Relative Difference Function Std tonal
+0.0453078754644	Running Mean of Method of Moments [0] Avg overall
+0.0453836184908	Derivative of Running Mean of Strongest Beat Std overall
+0.0453917344128	Standard Deviation of Method of Moments [0] Avg overall
+0.0454167268264	Derivative of Standard Deviation of Strongest Beat Std overall
+0.0454953359707	Running Mean of Area Method of Moments [0] Avg overall
+0.0455660126937	Standard Deviation of Area Method of Moments [0] Avg overall
+0.0457585641129	Running Mean of Strength Of Strongest Beat Avg overall
+0.0457585641129	Standard Deviation of Strength Of Strongest Beat Avg overall
+-0.046526939266	Strongest Beat Std rhythm
+-0.0466512823091	Running Mean of MFCC [5] Std rhythm
+-0.047228710429	Derivative of Running Mean of LPC [3] Std overall
+-0.0474569497956	Derivative of Strongest Frequency Via Zero Crossings Avg overall
+-0.0475010932382	Derivative of Zero Crossings Avg overall
+0.0485043490044	Derivative of Standard Deviation of Area Method of Moments [2] Std rhythm
+0.0485043490044	Derivative of Running Mean of Area Method of Moments [2] Std rhythm
+-0.0485541047803	Derivative of Running Mean of LPC [5] Avg tonal
+-0.0485553530478	Partial Based Spectral Centroid Avg rhythm
+-0.0487956159653	Running Mean of LPC [1] Std rhythm
+-0.0487960110665	Derivative of Running Mean of LPC [5] Avg overall
+-0.0488297739744	Running Mean of Strongest Frequency Via Zero Crossings Std tonal
+-0.0488470151221	Running Mean of Zero Crossings Std tonal
+-0.0489804681852	Derivative of Running Mean of MFCC [9] Std tonal
+-0.0490247930456	Standard Deviation of Strongest Frequency Via Zero Crossings Std tonal
+-0.0490335628673	Standard Deviation of Zero Crossings Std tonal
+0.049431254988	Strength Of Strongest Beat Avg overall
+-0.0497103940376	Running Mean of Peak Based Spectral Smoothness Avg rhythm
+-0.0497488074809	Spectral Centroid Std rhythm
+-0.0497769971234	Strongest Frequency Via Spectral Centroid Std rhythm
+-0.0497848591771	Standard Deviation of Peak Based Spectral Smoothness Avg rhythm
+-0.0499227524568	Derivative of Fraction Of Low Energy Windows Std rhythm
+0.0500935951257	Standard Deviation of Method of Moments [3] Std rhythm
+-0.0501711285458	Derivative of MFCC [7] Avg overall
+0.0501963083622	Running Mean of Method of Moments [3] Std rhythm
+-0.0506415293383	Method of Moments [2] Avg tonal
+-0.0507554362769	Derivative of MFCC [4] Avg overall
+0.050828907132	LPC [4] Std tonal
+0.0514587020669	Derivative of Standard Deviation of Area Method of Moments [0] Std rhythm
+0.0514723724012	Derivative of Running Mean of Area Method of Moments [0] Std rhythm
+-0.051498100957	Derivative of Partial Based Spectral Centroid Std rhythm
+0.0515245300751	Derivative of MFCC [3] Std overall
+0.0516195925648	Derivative of Standard Deviation of Peak Based Spectral Smoothness Avg rhythm
+0.0517158899721	Derivative of Standard Deviation of Method of Moments [0] Std overall
+0.0518675494036	Derivative of Running Mean of Method of Moments [0] Std overall
+-0.051922694712	Derivative of Peak Based Spectral Smoothness Std rhythm
+0.0520094454775	Standard Deviation of Method of Moments [4] Std rhythm
+0.052038706507	Derivative of Running Mean of Peak Based Spectral Smoothness Avg rhythm
+-0.052042204982	Running Mean of MFCC [5] Std overall
+0.052043979279	Running Mean of Method of Moments [4] Std rhythm
+-0.0522572576215	Running Mean of MFCC [9] Std tonal
+-0.0522681463604	Derivative of Running Mean of Method of Moments [4] Avg rhythm
+-0.0523159265952	Derivative of Standard Deviation of Method of Moments [4] Avg rhythm
+-0.0528996539032	Derivative of Method of Moments [0] Avg overall
+-0.0530755478288	Derivative of Method of Moments [4] Std overall
+0.053120785507	Derivative of MFCC [2] Std tonal
+0.0531536457844	MFCC [7] Std tonal
+-0.053228637957	Derivative of Spectral Rolloff Point Std rhythm
+0.0535050528963	Standard Deviation of Area Method of Moments [9] Std tonal
+0.0535050528963	Running Mean of Area Method of Moments [9] Std tonal
+0.0538424635815	Derivative of Running Mean of Beat Sum Std tonal
+0.0538520125383	Derivative of Standard Deviation of Beat Sum Std tonal
+-0.0542337109342	Derivative of Running Mean of Partial Based Spectral Centroid Avg overall
+0.0542906506957	Derivative of Standard Deviation of MFCC [1] Avg overall
+0.0543117938486	Derivative of Running Mean of MFCC [1] Avg overall
+0.0543348443566	Area Method of Moments [9] Std tonal
+-0.0543673082504	Derivative of LPC [3] Avg tonal
+0.0544332619127	Derivative of Area Method of Moments [1] Avg tonal
+-0.0544847080829	Derivative of MFCC [4] Std rhythm
+-0.0545503446128	Running Mean of Strongest Frequency Via FFT Maximum Std rhythm
+-0.054632272264	Derivative of Strongest Beat Std rhythm
+0.0546500372597	Derivative of Area Method of Moments [2] Std tonal
+-0.0548086292877	Derivative of Standard Deviation of Partial Based Spectral Centroid Avg overall
+-0.0548502728063	Running Mean of Strongest Beat Std rhythm
+-0.0549105090176	Standard Deviation of Area Method of Moments [0] Avg tonal
+0.054979119781	Running Mean of Method of Moments [1] Std tonal
+-0.0549799115979	Standard Deviation of Strongest Beat Std rhythm
+0.055005647571	Standard Deviation of Method of Moments [1] Std tonal
+-0.0550306285332	Running Mean of Area Method of Moments [0] Avg tonal
+-0.0551185424127	Standard Deviation of Method of Moments [0] Avg tonal
+-0.055296647445	Running Mean of Method of Moments [0] Avg tonal
+-0.0555432276006	Standard Deviation of Strongest Frequency Via FFT Maximum Std rhythm
+-0.0563439787767	Derivative of MFCC [5] Avg rhythm
+0.0564684365409	Derivative of Standard Deviation of Area Method of Moments [0] Std overall
+0.0564928757317	Derivative of Running Mean of Area Method of Moments [0] Std overall
+0.0566908206728	Standard Deviation of Strongest Frequency Via Zero Crossings Std overall
+-0.0566939090458	Derivative of LPC [5] Avg tonal
+0.0566966690207	Derivative of Spectral Variability Avg rhythm
+0.0567326224555	Standard Deviation of Zero Crossings Std overall
+0.0567592277383	Running Mean of Strongest Frequency Via Zero Crossings Std overall
+0.0567605052695	Running Mean of Zero Crossings Std overall
+-0.0568131386642	Running Mean of Method of Moments [2] Avg tonal
+-0.0570032867324	Standard Deviation of Method of Moments [2] Avg tonal
+-0.0571335488776	Area Method of Moments [0] Avg tonal
+-0.0572070367818	Standard Deviation of Partial Based Spectral Centroid Avg rhythm
+-0.0572271845226	Running Mean of Partial Based Spectral Centroid Avg rhythm
+-0.0573394563142	Derivative of MFCC [0] Std rhythm
+-0.0576291188499	Running Mean of LPC [3] Std overall
+-0.0576539753035	Method of Moments [0] Avg tonal
+-0.0578280550513	Method of Moments [1] Std overall
+0.0580251440669	Strongest Beat Std overall
+0.0583666815388	Derivative of Standard Deviation of Area Method of Moments [9] Avg tonal
+0.0583666815388	Derivative of Running Mean of Area Method of Moments [9] Avg tonal
+-0.0583731265604	Derivative of Running Mean of Method of Moments [2] Avg rhythm
+-0.05847094734	Derivative of Standard Deviation of Method of Moments [2] Avg rhythm
+-0.0586536149919	Area Method of Moments [0] Std tonal
+0.0587722056936	Derivative of Standard Deviation of Root Mean Square Avg tonal
+0.058795943108	Derivative of Running Mean of Root Mean Square Avg tonal
+0.0588077224816	Derivative of MFCC [9] Avg overall
+-0.0593104930459	MFCC [11] Avg tonal
+-0.0598108143778	Method of Moments [2] Std overall
+0.0599462011383	Derivative of Standard Deviation of Zero Crossings Avg rhythm
+0.0600082170912	Derivative of Standard Deviation of Strongest Frequency Via Zero Crossings Avg rhythm
+0.0600599353885	Derivative of Area Method of Moments [9] Avg tonal
+0.0601940880791	Derivative of Running Mean of Strongest Frequency Via Zero Crossings Avg rhythm
+0.0601979344729	Derivative of Running Mean of Zero Crossings Avg rhythm
+-0.0615670878766	LPC [3] Avg tonal
+0.0615751194725	Running Mean of LPC [8] Std rhythm
+-0.0618815867617	Derivative of Running Mean of Method of Moments [3] Avg rhythm
+-0.0619304501718	Derivative of Standard Deviation of Method of Moments [3] Avg rhythm
+-0.0621315455428	Running Mean of LPC [3] Avg tonal
+0.0621615938999	Derivative of LPC [3] Std tonal
+-0.062675960788	Running Mean of LPC [3] Std rhythm
+0.0626972895155	Derivative of Running Mean of Beat Sum Avg tonal
+0.0626991489408	Derivative of Standard Deviation of Beat Sum Avg tonal
+-0.0629283906097	Standard Deviation of Spectral Centroid Std tonal
+-0.0629483671425	Derivative of Running Mean of LPC [8] Std tonal
+-0.0629564429861	Area Method of Moments of MFCCs [0] Std tonal
+-0.0630413445526	Running Mean of Spectral Centroid Std tonal
+-0.063051123586	Standard Deviation of Strongest Frequency Via Spectral Centroid Std tonal
+-0.0630771651441	Running Mean of Strongest Frequency Via Spectral Centroid Std tonal
+0.0631424083862	Running Mean of MFCC [10] Std rhythm
+-0.0631428590496	Running Mean of MFCC [11] Avg tonal
+-0.0634696858476	Derivative of Standard Deviation of Strongest Frequency Via Zero Crossings Std rhythm
+-0.0634995162345	Derivative of Compactness Std overall
+-0.0637838349076	Derivative of Running Mean of Strongest Frequency Via Zero Crossings Std rhythm
+-0.0638684982463	Derivative of Standard Deviation of Zero Crossings Std rhythm
+0.0639060719955	Running Mean of Method of Moments [2] Std overall
+-0.0639077335488	Derivative of Running Mean of Zero Crossings Std rhythm
+0.0639804288531	Standard Deviation of Method of Moments [2] Std overall
+-0.0640894575808	Derivative of LPC [1] Std overall
+0.0645206554458	Running Mean of LPC [8] Avg tonal
+0.0645563896739	Running Mean of MFCC [10] Std overall
+0.0646947352052	Derivative of MFCC [7] Avg rhythm
+-0.0647336476574	Derivative of Running Mean of Strongest Frequency Via FFT Maximum Avg tonal
+0.064843515137	Standard Deviation of Area Method of Moments [4] Std tonal
+0.064843515137	Running Mean of Area Method of Moments [4] Std tonal
+-0.0648843943035	Derivative of Standard Deviation of Strongest Frequency Via FFT Maximum Avg tonal
+0.0649279026519	Standard Deviation of Area Method of Moments [7] Std tonal
+0.0649279026519	Running Mean of Area Method of Moments [7] Std tonal
+-0.064938710995	Derivative of MFCC [0] Avg rhythm
+0.0649691392631	Derivative of Standard Deviation of Area Method of Moments [7] Avg tonal
+0.0649691392631	Derivative of Running Mean of Area Method of Moments [7] Avg tonal
+0.0649732952058	Derivative of Standard Deviation of Area Method of Moments [4] Avg tonal
+-0.0649732952058	Derivative of Running Mean of Area Method of Moments [4] Avg tonal
+0.0650615514604	Derivative of Running Mean of Area Method of Moments [2] Std tonal
+0.0650615514604	Derivative of Standard Deviation of Area Method of Moments [2] Std tonal
+0.0653262467308	Area Method of Moments [4] Std tonal
+0.0653384950725	Derivative of Running Mean of Spectral Flux Avg overall
+0.0653695944154	Area Method of Moments [7] Std tonal
+0.0655088895721	Derivative of Beat Sum Avg tonal
+0.0656683611951	Running Mean of Method of Moments [1] Std overall
+-0.0657830132863	MFCC [0] Std overall
+0.0658577442751	Standard Deviation of Method of Moments [1] Std overall
+0.0659067791476	Derivative of Standard Deviation of Spectral Flux Avg overall
+0.0660421457544	Standard Deviation of Root Mean Square Std tonal
+0.0660749501864	Method of Moments [1] Std tonal
+-0.0661074165123	Derivative of Running Mean of MFCC [11] Avg overall
+-0.0662475353241	Derivative of Area Method of Moments [4] Avg tonal
+-0.0663902572555	Derivative of MFCC [10] Std overall
+0.0664584718792	Derivative of Area Method of Moments [7] Avg tonal
+0.0664646168884	Derivative of MFCC [11] Avg tonal
+0.0665628408873	Running Mean of Root Mean Square Std tonal
+0.0667130945734	LPC [8] Avg tonal
+-0.0669600940839	Derivative of Running Mean of MFCC [4] Avg tonal
+-0.0669743516775	MFCC [12] Avg tonal
+-0.0670648171315	Derivative of Standard Deviation of Strength Of Strongest Beat Avg tonal
+-0.067066236193	Derivative of Running Mean of Strength Of Strongest Beat Avg tonal
+-0.0671192693684	Derivative of MFCC [1] Std rhythm
+-0.0671397534144	Derivative of Standard Deviation of Strength Of Strongest Beat Avg overall
+-0.0671498456182	Derivative of Running Mean of Strength Of Strongest Beat Avg overall
+0.0673573016243	Derivative of LPC [2] Std overall
+-0.0674112594589	Standard Deviation of Method of Moments [4] Avg overall
+-0.06749433462	Running Mean of Method of Moments [4] Avg overall
+0.0684051143427	Derivative of Running Mean of LPC [2] Std overall
+-0.0684271277554	Method of Moments [4] Avg overall
+0.0686758120076	Derivative of Standard Deviation of Method of Moments [0] Std rhythm
+-0.0687134584254	Derivative of Compactness Std rhythm
+0.0687649539658	Derivative of Running Mean of Method of Moments [0] Std rhythm
+-0.0695658765186	Derivative of Standard Deviation of Compactness Std rhythm
+-0.0697764925682	Derivative of Standard Deviation of Compactness Std overall
+-0.0698178043019	Standard Deviation of Spectral Variability Std rhythm
+-0.0698264615252	Running Mean of Spectral Variability Std rhythm
+-0.0701512639048	Derivative of Running Mean of Compactness Std rhythm
+-0.0701768039594	Derivative of Running Mean of Compactness Std overall
+0.070200653353	Standard Deviation of Strongest Frequency Via Spectral Centroid Std rhythm
+-0.0703624161691	Derivative of Standard Deviation of Area Method of Moments [5] Std overall
+-0.0703624161691	Derivative of Running Mean of Area Method of Moments [5] Std overall
+0.0703713526192	Standard Deviation of Spectral Centroid Std rhythm
+0.0704675724044	Running Mean of Spectral Centroid Std rhythm
+0.0705152095681	Running Mean of Strongest Frequency Via Spectral Centroid Std rhythm
+0.0705717494141	Derivative of Method of Moments [4] Avg overall
+0.0706327217591	Standard Deviation of Peak Based Spectral Smoothness Std overall
+-0.0706934535434	LPC [3] Std overall
+0.0707223898962	Running Mean of LPC [1] Std overall
+0.0707263490109	Running Mean of Peak Based Spectral Smoothness Std overall
+-0.0707408743151	Derivative of Running Mean of Area Method of Moments [8] Std overall
+-0.0707408743151	Derivative of Standard Deviation of Area Method of Moments [8] Std overall
+-0.0708266033297	Running Mean of MFCC [12] Avg tonal
+0.0710490953735	Standard Deviation of Method of Moments [3] Avg tonal
+0.0712412314114	Running Mean of Method of Moments [3] Avg tonal
+0.0714644375356	Derivative of Method of Moments [3] Avg rhythm
+0.071789264234	Standard Deviation of Spectral Rolloff Point Std overall
+0.0718223642459	Running Mean of MFCC [9] Std rhythm
+-0.0719557063228	Derivative of Running Mean of Method of Moments [2] Avg overall
+-0.0719737131573	Derivative of Standard Deviation of Method of Moments [2] Avg overall
+0.0724507627869	Running Mean of Spectral Rolloff Point Std overall
+-0.0725249204758	Standard Deviation of Root Mean Square Std rhythm
+-0.0726444121734	Running Mean of Root Mean Square Std rhythm
+-0.0728291590148	Derivative of Standard Deviation of Strongest Beat Std rhythm
+-0.0728417893416	Derivative of Running Mean of Strongest Beat Std rhythm
+-0.0729609384208	Compactness Avg tonal
+-0.073346316022	Derivative of Running Mean of MFCC [4] Std overall
+-0.073505862033	Derivative of Running Mean of Area Method of Moments [0] Avg overall
+-0.0735097565737	Derivative of Standard Deviation of Area Method of Moments [0] Avg overall
+0.0737104238251	Fraction Of Low Energy Windows Std rhythm
+-0.0744635586343	Standard Deviation of Strongest Beat Avg overall
+-0.0744822261441	Running Mean of Strongest Beat Avg overall
+-0.0747740335777	Derivative of Running Mean of Method of Moments [1] Std overall
+-0.0748093981252	LPC [0] Std rhythm
+-0.0748732994062	Derivative of Standard Deviation of Method of Moments [1] Std overall
+0.0754189562107	Method of Moments [3] Avg tonal
+0.0755691314738	Area Method of Moments [1] Std tonal
+-0.0759835700655	Derivative of Running Mean of Spectral Rolloff Point Std overall
+0.0760858245555	Area Method of Moments of MFCCs [1] Std tonal
+-0.076284212231	Running Mean of MFCC [12] Std overall
+0.0764396582722	Running Mean of MFCC [6] Std tonal
+-0.0766141214896	Running Mean of MFCC [7] Std overall
+-0.0766871089122	Derivative of Standard Deviation of Area Method of Moments [4] Std overall
+-0.0766871089122	Derivative of Running Mean of Area Method of Moments [4] Std overall
+-0.0768001610368	Derivative of Standard Deviation of Spectral Rolloff Point Std overall
+-0.0769900954939	Strongest Beat Avg overall
+-0.0770200678782	Derivative of Standard Deviation of Method of Moments [2] Std overall
+0.0771356064095	Derivative of LPC [2] Avg rhythm
+-0.0772147816465	Derivative of Running Mean of Method of Moments [2] Std overall
+0.0773739942673	Derivative of Standard Deviation of Area Method of Moments [2] Std overall
+0.0773739942673	Derivative of Running Mean of Area Method of Moments [2] Std overall
+0.0774140066797	Derivative of Area Method of Moments [1] Avg rhythm
+0.0775103500331	MFCC [3] Std rhythm
+0.0776932815088	Running Mean of Area Method of Moments [1] Std tonal
+0.0776932815088	Standard Deviation of Area Method of Moments [1] Std tonal
+-0.0777445724237	LPC [4] Avg overall
+0.0778761713224	Derivative of Running Mean of Strongest Beat Avg rhythm
+0.0780260363229	Derivative of Running Mean of LPC [2] Std rhythm
+0.0780313388873	Derivative of Standard Deviation of Strongest Beat Avg rhythm
+0.0780644838199	Derivative of Peak Based Spectral Smoothness Avg overall
+-0.0782690721207	Strongest Frequency Via FFT Maximum Std overall
+-0.0782868552281	LPC [8] Std overall
+0.0783455185671	Derivative of Method of Moments [4] Std tonal
+-0.0783499945526	Derivative of Standard Deviation of Area Method of Moments [7] Std overall
+-0.0783499945526	Derivative of Running Mean of Area Method of Moments [7] Std overall
+-0.0783874215024	Running Mean of Strongest Beat Avg rhythm
+-0.078399210274	Standard Deviation of Strongest Beat Avg rhythm
+-0.0784002907058	Strongest Frequency Via FFT Maximum Avg overall
+0.0785053121655	Running Mean of Fraction Of Low Energy Windows Avg tonal
+0.0786422002183	Standard Deviation of Fraction Of Low Energy Windows Avg tonal
+0.0788620810978	Standard Deviation of MFCC [1] Std overall
+0.0790973454382	Derivative of Running Mean of MFCC [6] Std overall
+0.0791024290708	Running Mean of MFCC [1] Std overall
+-0.0793048320945	Spectral Rolloff Point Std overall
+0.0793867141062	Derivative of Running Mean of MFCC [1] Avg tonal
+0.0795253646724	Derivative of Standard Deviation of MFCC [1] Avg tonal
+-0.0796383390598	Derivative of Strength Of Strongest Beat Avg overall
+0.0797787386083	Running Mean of MFCC [12] Std tonal
+0.0799687545868	Derivative of LPC [1] Avg tonal
+-0.0799901800706	Derivative of Running Mean of LPC [1] Std overall
+-0.0800442738812	Derivative of MFCC [2] Std overall
+-0.0800920467214	Derivative of Standard Deviation of Method of Moments [0] Avg overall
+-0.0801692133117	Derivative of Running Mean of Method of Moments [0] Avg overall
+0.0801974236816	LPC [3] Std tonal
+-0.0805483679925	Running Mean of Method of Moments [0] Std overall
+0.080579113187	Area Method of Moments of MFCCs [0] Avg overall
+-0.0806684655811	Standard Deviation of Method of Moments [0] Std overall
+-0.0809316597138	Running Mean of Area Method of Moments [0] Std overall
+-0.0810154774445	Standard Deviation of Area Method of Moments [0] Std overall
+0.0815432788268	Root Mean Square Std rhythm
+-0.0824284702716	Spectral Rolloff Point Avg rhythm
+0.0825035787297	Derivative of MFCC [1] Avg rhythm
+0.0825205572727	Running Mean of Strength Of Strongest Beat Avg tonal
+0.0825205572727	Standard Deviation of Strength Of Strongest Beat Avg tonal
+-0.0827374551706	Derivative of LPC [7] Avg rhythm
+0.0827722230499	Derivative of Running Mean of Strongest Beat Avg tonal
+0.0828167224135	Derivative of Standard Deviation of Strongest Beat Avg tonal
+-0.0830310196493	Derivative of Running Mean of LPC [6] Avg tonal
+-0.0831393279611	Derivative of Running Mean of MFCC [3] Avg tonal
+0.0831624011809	LPC [2] Std overall
+-0.0832699172489	Strongest Beat Avg rhythm
+-0.0833608425195	Running Mean of Area Method of Moments [0] Std tonal
+-0.0834257261282	Standard Deviation of Area Method of Moments [0] Std tonal
+-0.0835065996105	Derivative of Running Mean of MFCC [8] Std tonal
+0.083631592622	Standard Deviation of MFCC [1] Std tonal
+0.0837169675488	Derivative of Standard Deviation of Spectral Variability Avg tonal
+0.0837928627686	Derivative of Running Mean of Spectral Variability Avg tonal
+-0.0838145180305	Running Mean of LPC [4] Avg overall
+0.0838390659857	Derivative of Spectral Rolloff Point Avg rhythm
+0.0838395919901	Running Mean of MFCC [1] Std tonal
+0.0838447900042	MFCC [6] Std rhythm
+-0.0838630630089	Compactness Std overall
+-0.0839294247713	Running Mean of LPC [7] Std rhythm
+0.0839526746723	Derivative of Beat Sum Std tonal
+0.0840207397369	Standard Deviation of Spectral Variability Std tonal
+-0.0841780850973	Derivative of Standard Deviation of LPC [0] Std tonal
+0.0842989279376	Running Mean of Spectral Variability Std tonal
+-0.0843090373666	Running Mean of Compactness Avg tonal
+0.0843840285056	Derivative of Running Mean of MFCC [12] Avg overall
+-0.0844286425224	Derivative of Running Mean of LPC [0] Std tonal
+0.0844861894441	Derivative of Method of Moments [0] Std rhythm
+-0.0847985303321	Standard Deviation of Compactness Avg tonal
+-0.0847996256148	Running Mean of Method of Moments [0] Std tonal
+-0.0849524854239	Standard Deviation of Method of Moments [0] Std tonal
+0.0851694589084	LPC [2] Avg overall
+-0.0854205223035	Standard Deviation of Strongest Frequency Via FFT Maximum Avg overall
+0.085777124846	Fraction Of Low Energy Windows Avg tonal
+-0.0859051257624	Running Mean of Strongest Frequency Via FFT Maximum Avg overall
+0.0859551796842	Derivative of Standard Deviation of Method of Moments [1] Std tonal
+-0.0860250039241	Derivative of Running Mean of Strongest Frequency Via Spectral Centroid Std rhythm
+0.0860756107739	Derivative of MFCC [6] Std rhythm
+-0.0860868402619	Derivative of Running Mean of Spectral Centroid Std rhythm
+-0.0861117928591	Strongest Frequency Via Zero Crossings Avg rhythm
+0.0861519422148	Derivative of Method of Moments [1] Avg rhythm
+-0.0861562907112	Derivative of Standard Deviation of Strongest Frequency Via Spectral Centroid Std rhythm
+0.0861585957822	Derivative of Running Mean of Method of Moments [1] Std tonal
+-0.086191924375	Derivative of Standard Deviation of Spectral Centroid Std rhythm
+-0.0862247503752	Derivative of LPC [6] Avg overall
+-0.0862266262917	Zero Crossings Avg rhythm
+-0.0864752389091	MFCC [5] Std overall
+0.0867690481095	LPC [2] Std rhythm
+-0.0869190096472	Strongest Frequency Via Spectral Centroid Avg rhythm
+-0.0870232860741	Spectral Centroid Avg rhythm
+-0.0873035867766	Derivative of MFCC [4] Avg tonal
+-0.0874049142694	MFCC [8] Std tonal
+-0.0875551993938	Derivative of Running Mean of Strongest Frequency Via Spectral Centroid Std tonal
+-0.0877455896131	Derivative of Running Mean of Spectral Centroid Std tonal
+0.0879541318633	Derivative of Running Mean of MFCC [7] Std overall
+0.0881293455493	Derivative of Standard Deviation of Spectral Variability Std tonal
+-0.0881571804366	Derivative of Standard Deviation of Strongest Frequency Via Spectral Centroid Std tonal
+0.0881644692707	Derivative of Running Mean of Spectral Variability Std tonal
+-0.0881864268133	Derivative of Standard Deviation of Spectral Centroid Std tonal
+0.0885200924029	MFCC [6] Std overall
+0.0885290249397	Standard Deviation of Fraction Of Low Energy Windows Avg rhythm
+0.0885485410778	Derivative of LPC [2] Std rhythm
+0.0885983776387	Running Mean of Fraction Of Low Energy Windows Avg rhythm
+-0.0887326751942	Derivative of LPC [6] Std tonal
+0.0888166274262	MFCC [12] Std tonal
+-0.0888214096689	Compactness Std rhythm
+-0.0889086537367	Standard Deviation of Area Method of Moments [2] Std rhythm
+-0.0889086537367	Running Mean of Area Method of Moments [2] Std rhythm
+-0.0889910486256	Running Mean of LPC [2] Avg rhythm
+0.0890603553832	Spectral Variability Std rhythm
+-0.0894084226443	Derivative of LPC [1] Avg overall
+0.089559493654	Standard Deviation of Spectral Flux Avg overall
+-0.0896173702184	Derivative of Running Mean of MFCC [2] Std rhythm
+-0.0898537411978	Area Method of Moments [2] Std rhythm
+-0.0899318704628	Standard Deviation of Relative Difference Function Avg overall
+0.0899864234663	Running Mean of Relative Difference Function Avg overall
+0.0899904765812	Running Mean of LPC [2] Avg overall
+0.0901094797378	Running Mean of Spectral Flux Avg overall
+0.0901167678244	Fraction Of Low Energy Windows Avg rhythm
+0.090445060131	Standard Deviation of Method of Moments [4] Avg tonal
+0.0904989826412	Running Mean of Method of Moments [4] Avg tonal
+-0.0907390836703	Derivative of Standard Deviation of Fraction Of Low Energy Windows Avg tonal
+-0.0907470297949	Derivative of Running Mean of Fraction Of Low Energy Windows Avg tonal
+0.0909497163619	Derivative of Partial Based Spectral Centroid Avg overall
+0.0909969644446	Derivative of Method of Moments [2] Std tonal
+-0.0911449450971	MFCC [10] Std overall
+-0.0914072346988	Derivative of MFCC [9] Std tonal
+-0.0915540635895	Running Mean of Spectral Rolloff Point Avg rhythm
+-0.0916697231081	Standard Deviation of Spectral Rolloff Point Avg rhythm
+-0.0920975595755	Standard Deviation of Zero Crossings Avg rhythm
+-0.0921302109354	LPC [2] Avg rhythm
+-0.0922085959556	Running Mean of Strongest Frequency Via Zero Crossings Avg rhythm
+-0.0922140513094	Standard Deviation of Strongest Frequency Via Zero Crossings Avg rhythm
+-0.092222617562	Running Mean of Zero Crossings Avg rhythm
+0.0923877531218	Spectral Flux Avg overall
+-0.0924201082325	MFCC [5] Avg tonal
+-0.092722433699	Running Mean of LPC [0] Std tonal
+-0.092744216897	Standard Deviation of Strength Of Strongest Beat Std overall
+-0.092744216897	Running Mean of Strength Of Strongest Beat Std overall
+-0.0927553339568	Standard Deviation of LPC [0] Std tonal
+-0.0929025274329	Derivative of Standard Deviation of Strongest Frequency Via FFT Maximum Std overall
+-0.0929575927458	Derivative of Area Method of Moments [0] Avg overall
+-0.0933477834647	MFCC [1] Std rhythm
+-0.0934219840769	Derivative of Running Mean of Strongest Frequency Via FFT Maximum Std overall
+-0.093434746678	Strongest Frequency Via FFT Maximum Std rhythm
+0.0934612506974	Derivative of Running Mean of MFCC [3] Std tonal
+0.093740677813	Derivative of LPC [4] Std tonal
+-0.0938711201861	Strongest Frequency Via FFT Maximum Avg rhythm
+0.0938807854594	Relative Difference Function Avg overall
+0.0941329060517	Method of Moments [4] Avg tonal
+0.0942138699001	Derivative of Area Method of Moments [1] Avg overall
+-0.0946195986438	Derivative of LPC [7] Avg tonal
+-0.094817491466	Running Mean of MFCC [5] Avg tonal
+-0.0948206678922	MFCC [5] Std rhythm
+0.0948365747181	Derivative of Root Mean Square Avg rhythm
+0.0949818058245	Derivative of Spectral Variability Std overall
+0.095053448852	Spectral Variability Std tonal
+0.0950728969471	Fraction Of Low Energy Windows Std tonal
+-0.0951147499637	LPC [4] Avg tonal
+-0.0953639295959	Derivative of LPC [3] Std overall
+-0.0956376149463	Running Mean of Method of Moments [3] Avg overall
+0.0956910182682	Strength Of Strongest Beat Avg tonal
+0.0956941080118	Running Mean of MFCC [0] Avg rhythm
+-0.095697262954	Derivative of Running Mean of LPC [0] Std rhythm
+-0.0957138915801	Standard Deviation of Spectral Centroid Avg rhythm
+-0.0957411560291	Running Mean of Spectral Centroid Avg rhythm
+-0.0957863003796	Derivative of Standard Deviation of LPC [0] Std rhythm
+-0.0957960898995	Standard Deviation of Strongest Frequency Via Spectral Centroid Avg rhythm
+-0.0958137972933	Derivative of Spectral Variability Avg tonal
+-0.0958374720176	Running Mean of Strongest Frequency Via Spectral Centroid Avg rhythm
+-0.0958545915046	Standard Deviation of Method of Moments [3] Avg overall
+-0.0958982404445	Derivative of MFCC [11] Avg overall
+-0.0959800196555	Standard Deviation of MFCC [0] Avg rhythm
+-0.0960707698677	Running Mean of LPC [4] Avg tonal
+-0.0962455735096	Derivative of MFCC [12] Avg overall
+-0.0963868209698	Method of Moments [3] Avg overall
+0.0967798429991	Derivative of Running Mean of Strongest Frequency Via FFT Maximum Avg rhythm
+-0.096902351359	LPC [0] Avg rhythm
+0.0969141666111	Area Method of Moments [0] Avg rhythm
+0.0971488706186	Method of Moments [0] Avg rhythm
+0.0971790934746	Derivative of Standard Deviation of Strongest Frequency Via FFT Maximum Avg rhythm
+-0.0973403072653	Derivative of Running Mean of MFCC [10] Avg rhythm
+0.097523826638	Standard Deviation of Method of Moments [0] Avg rhythm
+0.0975509155639	Running Mean of Method of Moments [0] Avg rhythm
+0.0975700309358	Derivative of Spectral Flux Avg rhythm
+0.0975875537336	Standard Deviation of Area Method of Moments [0] Avg rhythm
+0.0975881814968	Running Mean of Area Method of Moments [0] Avg rhythm
+0.0976395441292	Running Mean of MFCC [4] Avg rhythm
+0.0980570045256	Standard Deviation of MFCC [0] Std tonal
+0.0981030456223	Running Mean of MFCC [0] Std tonal
+0.0998989663684	Derivative of Running Mean of MFCC [7] Std tonal
+0.0999897149912	Root Mean Square Avg overall
+0.099990262254	MFCC [0] Avg rhythm
+0.100382392217	Derivative of Method of Moments [3] Std tonal
+0.100552589384	Standard Deviation of Beat Sum Avg overall
+0.10056343524	Running Mean of Beat Sum Avg overall
+0.100692599786	Beat Sum Avg overall
+-0.100918470096	Derivative of Running Mean of MFCC [10] Std overall
+-0.101050620544	Derivative of Root Mean Square Avg tonal
+0.101341292724	Derivative of Standard Deviation of Root Mean Square Std rhythm
+-0.101367293397	Derivative of Method of Moments [3] Avg tonal
+-0.101443774353	Derivative of Running Mean of Method of Moments [1] Avg tonal
+-0.101456655614	Derivative of Standard Deviation of Method of Moments [1] Avg tonal
+0.101524020325	Derivative of Running Mean of Root Mean Square Std rhythm
+0.101908530498	Standard Deviation of Root Mean Square Avg overall
+0.101928897748	Running Mean of Root Mean Square Avg overall
+-0.101999202325	Derivative of Method of Moments [2] Std overall
+-0.102175072683	Area Method of Moments of MFCCs [0] Avg tonal
+-0.102181271019	Method of Moments [4] Std rhythm
+0.102183231895	Derivative of Running Mean of MFCC [12] Avg tonal
+-0.102629815821	LPC [0] Std tonal
+-0.102761475506	Running Mean of Spectral Rolloff Point Std tonal
+0.102973822262	Derivative of Standard Deviation of Spectral Variability Std rhythm
+0.103142372703	Derivative of Running Mean of Spectral Variability Std rhythm
+0.103406247846	MFCC [1] Std tonal
+0.103719556809	MFCC [4] Avg rhythm
+-0.103791680494	Standard Deviation of Spectral Rolloff Point Std tonal
+-0.104030906874	Derivative of MFCC [8] Avg tonal
+-0.104064001633	LPC [8] Std rhythm
+-0.104145675607	Derivative of Running Mean of MFCC [4] Avg rhythm
+0.104177992419	Derivative of Running Mean of MFCC [12] Std tonal
+-0.104265415884	Running Mean of LPC [0] Avg rhythm
+-0.104538445278	Derivative of MFCC [12] Avg tonal
+0.104579955655	Derivative of Running Mean of LPC [3] Std tonal
+0.104609779614	Standard Deviation of LPC [0] Avg rhythm
+0.105109577524	Beat Sum Avg rhythm
+0.105266422573	Derivative of Standard Deviation of Root Mean Square Std tonal
+0.105369321292	Derivative of Running Mean of MFCC [2] Std tonal
+0.105438318434	Derivative of Running Mean of Root Mean Square Std tonal
+0.10575123941	Area Method of Moments of MFCCs [2] Std rhythm
+0.105778172063	Derivative of MFCC [9] Avg rhythm
+0.105788891624	Spectral Variability Avg rhythm
+0.106112894152	Root Mean Square Avg rhythm
+0.106286917126	Standard Deviation of Beat Sum Avg rhythm
+0.106288869203	Running Mean of Beat Sum Avg rhythm
+-0.106713359289	Spectral Centroid Std overall
+-0.106779994247	Strongest Frequency Via Spectral Centroid Std overall
+0.107070838827	Running Mean of Strongest Frequency Via Zero Crossings Std rhythm
+0.10708520016	Running Mean of Zero Crossings Std rhythm
+0.107112001113	Standard Deviation of Spectral Variability Avg rhythm
+0.107129757067	Standard Deviation of Strongest Frequency Via Zero Crossings Std rhythm
+0.107188479437	Standard Deviation of Zero Crossings Std rhythm
+0.107264459321	Running Mean of Spectral Variability Avg rhythm
+0.10733101652	Running Mean of Root Mean Square Avg rhythm
+0.107339069439	Spectral Variability Avg overall
+0.107471031618	Standard Deviation of Root Mean Square Avg rhythm
+0.107513022523	Derivative of Beat Sum Std rhythm
+-0.107549144913	Zero Crossings Std overall
+-0.107621682545	Strongest Frequency Via Zero Crossings Std overall
+0.108202800369	Derivative of LPC [0] Avg overall
+0.108638749795	Derivative of Spectral Flux Std overall
+0.108662444608	Derivative of Running Mean of Spectral Flux Avg tonal
+0.108812797253	Standard Deviation of Spectral Variability Avg overall
+0.109013060637	Running Mean of Spectral Variability Avg overall
+0.109188761641	LPC [1] Avg overall
+-0.109614918644	Standard Deviation of Strongest Frequency Via FFT Maximum Avg rhythm
+0.109713634512	Root Mean Square Std tonal
+0.109960867799	MFCC [4] Std tonal
+0.110012389628	Derivative of LPC [5] Avg overall
+0.110025504487	Derivative of Standard Deviation of Spectral Flux Avg tonal
+0.110050993304	Standard Deviation of Partial Based Spectral Centroid Std rhythm
+0.11015816665	Running Mean of Partial Based Spectral Centroid Std rhythm
+-0.110251335534	Running Mean of Strongest Frequency Via FFT Maximum Avg rhythm
+0.110318349502	Derivative of LPC [2] Avg tonal
+-0.110360506757	Derivative of Strongest Beat Avg rhythm
+0.111297644077	Running Mean of LPC [1] Avg overall
+0.111376566167	Derivative of Running Mean of Strongest Beat Avg overall
+0.111445418246	Running Mean of Relative Difference Function Avg rhythm
+0.111484081595	Standard Deviation of Spectral Flux Avg rhythm
+0.111527123656	Derivative of Standard Deviation of Strongest Beat Avg overall
+0.111550118353	Derivative of Strongest Beat Avg tonal
+-0.111566237263	Standard Deviation of Relative Difference Function Avg rhythm
+-0.111798785934	Area Method of Moments of MFCCs [9] Avg tonal
+-0.111965140455	Derivative of Standard Deviation of Method of Moments [4] Std rhythm
+0.112013386356	Relative Difference Function Avg rhythm
+0.112069657855	Running Mean of Spectral Flux Avg rhythm
+0.112118755164	MFCC [7] Std rhythm
+0.11212224252	Spectral Flux Avg rhythm
+-0.112259697541	Derivative of Running Mean of Method of Moments [4] Std rhythm
+0.112279778871	Derivative of Spectral Variability Std rhythm
+-0.112328386633	MFCC [7] Avg tonal
+-0.112644346389	Derivative of MFCC [0] Avg tonal
+-0.112892842598	Spectral Centroid Std tonal
+-0.112962926051	MFCC [11] Std tonal
+-0.112967219278	Strongest Frequency Via Spectral Centroid Std tonal
+0.113086425884	Derivative of Running Mean of MFCC [6] Std rhythm
+0.113156949414	Spectral Flux Std overall
+0.113480313713	Derivative of Root Mean Square Std overall
+0.113606512542	Derivative of Relative Difference Function Avg overall
+0.114294651377	Derivative of Method of Moments [4] Avg rhythm
+0.114361775638	Derivative of Relative Difference Function Avg rhythm
+-0.114377510807	Method of Moments [3] Std rhythm
+0.114554458953	Area Method of Moments of MFCCs [8] Avg tonal
+-0.114624988914	Area Method of Moments of MFCCs [5] Avg tonal
+-0.114671637184	Running Mean of Method of Moments [1] Avg rhythm
+-0.114714972156	Standard Deviation of Method of Moments [1] Avg rhythm
+-0.115057365608	Derivative of Strength Of Strongest Beat Avg rhythm
+0.115331509167	Fraction Of Low Energy Windows Std overall
+-0.11533341103	Method of Moments [1] Avg rhythm
+-0.115389638825	Derivative of Running Mean of Peak Based Spectral Smoothness Avg tonal
+0.115587081938	Running Mean of LPC [8] Std tonal
+-0.115762673381	Derivative of Area Method of Moments [1] Std rhythm
+-0.115841989988	Derivative of Standard Deviation of Peak Based Spectral Smoothness Avg tonal
+0.115935725491	Derivative of MFCC [6] Std tonal
+-0.116057268174	Area Method of Moments of MFCCs [2] Std overall
+-0.116357006413	MFCC [4] Std rhythm
+-0.116599100078	Derivative of Running Mean of Zero Crossings Avg tonal
+-0.116632785045	Derivative of Running Mean of Strongest Frequency Via Zero Crossings Avg tonal
+-0.116680910725	Derivative of Standard Deviation of Zero Crossings Avg tonal
+-0.116714672454	Derivative of Standard Deviation of Strongest Frequency Via Zero Crossings Avg tonal
+-0.116834649726	Running Mean of MFCC [7] Avg tonal
+0.11705556516	Derivative of LPC [6] Avg tonal
+0.117076196086	Running Mean of Method of Moments [4] Std overall
+0.117090867899	Derivative of Running Mean of Method of Moments [2] Std tonal
+0.117098400851	Derivative of Running Mean of Method of Moments [4] Std tonal
+0.117236225959	Standard Deviation of Method of Moments [4] Std overall
+-0.117325491939	Peak Based Spectral Smoothness Std overall
+0.117429654385	Running Mean of Fraction Of Low Energy Windows Avg overall
+0.117440632481	Derivative of Standard Deviation of Method of Moments [2] Std tonal
+0.117455263555	Standard Deviation of Fraction Of Low Energy Windows Avg overall
+-0.117515512354	Derivative of Standard Deviation of Strongest Frequency Via FFT Maximum Std rhythm
+0.117535564584	Derivative of Standard Deviation of Method of Moments [4] Std tonal
+-0.117623406834	Derivative of Running Mean of Strongest Frequency Via FFT Maximum Std rhythm
+0.11777508454	Running Mean of LPC [8] Std overall
+-0.117802967203	Derivative of Running Mean of Area Method of Moments [2] Avg rhythm
+-0.117802967203	Derivative of Standard Deviation of Area Method of Moments [2] Avg rhythm
+0.117843463443	Derivative of MFCC [5] Std tonal
+-0.118149818122	Derivative of Area Method of Moments [2] Avg rhythm
+-0.118451981872	Area Method of Moments of MFCCs [2] Avg tonal
+-0.118685793064	Derivative of MFCC [5] Std rhythm
+-0.118723363432	Derivative of MFCC [0] Avg overall
+0.118835811563	Derivative of Standard Deviation of Spectral Flux Std overall
+0.119242266964	Derivative of Running Mean of Spectral Flux Std overall
+0.119592363188	Spectral Flux Std rhythm
+-0.120079631806	Running Mean of MFCC [4] Avg tonal
+-0.120516971784	Derivative of LPC [0] Std tonal
+-0.120550349631	Derivative of Running Mean of MFCC [12] Std overall
+-0.12058576378	Strength Of Strongest Beat Std rhythm
+-0.120689073593	LPC [0] Std overall
+-0.120732738599	Derivative of Running Mean of Strongest Frequency Via Spectral Centroid Std overall
+-0.120895048803	Derivative of Running Mean of Spectral Centroid Std overall
+-0.121174389444	Method of Moments [1] Std rhythm
+-0.121194529688	Derivative of Standard Deviation of Strongest Frequency Via Spectral Centroid Std overall
+0.121231590778	MFCC [7] Std overall
+-0.121240379637	Derivative of Standard Deviation of Spectral Centroid Std overall
+-0.121319470776	Derivative of Running Mean of Spectral Centroid Avg tonal
+-0.121342004135	Derivative of Running Mean of Strongest Frequency Via Spectral Centroid Avg tonal
+0.121411152076	Derivative of MFCC [0] Std tonal
+-0.12155644491	Derivative of Standard Deviation of Spectral Centroid Avg tonal
+0.12157827262	Derivative of Running Mean of MFCC [5] Avg rhythm
+-0.121597731848	Derivative of Standard Deviation of Strongest Frequency Via Spectral Centroid Avg tonal
+0.121833241602	Derivative of Running Mean of LPC [2] Avg tonal
+-0.12196665294	MFCC [4] Avg tonal
+0.122182777411	Derivative of Root Mean Square Std rhythm
+-0.122287692566	Derivative of LPC [7] Avg overall
+0.122574664611	Running Mean of Method of Moments [2] Std tonal
+0.122606953289	Standard Deviation of Method of Moments [2] Std tonal
+-0.122780320065	Derivative of Peak Based Spectral Smoothness Avg rhythm
+0.122953953543	Fraction Of Low Energy Windows Avg overall
+-0.123031607416	Derivative of Running Mean of MFCC [4] Avg overall
+-0.123177032364	Derivative of Running Mean of Peak Based Spectral Smoothness Std overall
+-0.123347198185	Area Method of Moments of MFCCs [9] Std rhythm
+-0.123419902255	Derivative of Running Mean of Zero Crossings Std tonal
+-0.123448428345	Derivative of Running Mean of Strongest Frequency Via Zero Crossings Std tonal
+-0.123482105245	Derivative of Running Mean of MFCC [11] Std tonal
+-0.123494935031	Derivative of Standard Deviation of Peak Based Spectral Smoothness Std overall
+-0.123785070268	Derivative of Standard Deviation of Zero Crossings Std tonal
+-0.123988452083	Derivative of Standard Deviation of Strongest Frequency Via Zero Crossings Std tonal
+0.124039188759	Derivative of Standard Deviation of MFCC [1] Std tonal
+-0.124088911462	Running Mean of Peak Based Spectral Smoothness Std tonal
+-0.124133035705	Standard Deviation of Peak Based Spectral Smoothness Std tonal
+0.124165293072	Derivative of MFCC [10] Std rhythm
+-0.124201225913	Derivative of Running Mean of Strongest Frequency Via Zero Crossings Std overall
+-0.124269797944	Derivative of Standard Deviation of Strongest Frequency Via Zero Crossings Std overall
+-0.124283484633	Derivative of Running Mean of Zero Crossings Std overall
+-0.124290911014	Peak Based Spectral Smoothness Avg overall
+0.124295008267	Derivative of Running Mean of MFCC [1] Std tonal
+-0.124309670946	Derivative of Running Mean of MFCC [1] Std rhythm
+-0.124321329232	Derivative of Method of Moments [4] Std rhythm
+-0.124451155075	Derivative of Standard Deviation of MFCC [1] Std rhythm
+-0.124468470022	Derivative of Standard Deviation of Zero Crossings Std overall
+-0.124494049415	Partial Based Spectral Centroid Avg overall
+-0.124633653223	Derivative of MFCC [6] Avg rhythm
+0.125202082733	Derivative of Standard Deviation of LPC [0] Avg tonal
+-0.125245953402	Derivative of Running Mean of LPC [0] Avg tonal
+0.125643507166	Derivative of Standard Deviation of MFCC [0] Avg overall
+-0.125730577388	Derivative of Standard Deviation of Method of Moments [3] Std rhythm
+-0.125731531524	Derivative of Running Mean of Method of Moments [3] Std rhythm
+-0.125864310566	Derivative of Running Mean of MFCC [0] Avg overall
+-0.126544027855	Derivative of Standard Deviation of LPC [0] Std overall
+-0.12662123933	Derivative of Running Mean of LPC [0] Std overall
+0.126683377355	Derivative of Strength Of Strongest Beat Std overall
+-0.126904359711	Running Mean of MFCC [0] Std overall
+-0.126958015566	Standard Deviation of MFCC [0] Std overall
+-0.127024237013	Derivative of Compactness Avg overall
+0.127106846953	Derivative of LPC [2] Avg overall
+0.127131401846	Derivative of Standard Deviation of MFCC [0] Std tonal
+-0.127234162888	Standard Deviation of Partial Based Spectral Centroid Avg overall
+0.12728085023	Running Mean of Method of Moments [4] Std tonal
+-0.127330144791	Running Mean of Partial Based Spectral Centroid Avg overall
+0.127392749659	Area Method of Moments of MFCCs [4] Avg tonal
+-0.127403616946	Area Method of Moments of MFCCs [7] Avg tonal
+-0.127469428218	Derivative of Strongest Frequency Via FFT Maximum Std overall
+0.127490922537	Derivative of Standard Deviation of Spectral Rolloff Point Avg rhythm
+0.127597554106	Standard Deviation of Method of Moments [4] Std tonal
+0.127605318837	Spectral Variability Std overall
+-0.127827888021	Derivative of Running Mean of Area Method of Moments [1] Std rhythm
+-0.127827888021	Derivative of Standard Deviation of Area Method of Moments [1] Std rhythm
+0.127872182452	Derivative of Running Mean of MFCC [0] Std tonal
+0.127974922373	Derivative of Running Mean of Spectral Rolloff Point Avg rhythm
+-0.129103828119	Standard Deviation of Peak Based Spectral Smoothness Avg overall
+-0.129138644722	Running Mean of Peak Based Spectral Smoothness Avg overall
+-0.129284328738	Derivative of Method of Moments [3] Std rhythm
+-0.129582439352	Standard Deviation of Spectral Rolloff Point Avg tonal
+-0.129811135389	Running Mean of Spectral Rolloff Point Avg tonal
+0.130276196629	Root Mean Square Std overall
+-0.130417318627	Derivative of Standard Deviation of Area Method of Moments [3] Std overall
+-0.130417318627	Derivative of Running Mean of Area Method of Moments [3] Std overall
+0.130753860422	Derivative of Standard Deviation of Spectral Centroid Avg rhythm
+0.130807383263	Derivative of Standard Deviation of Strongest Frequency Via Spectral Centroid Avg rhythm
+0.130833264976	Derivative of Running Mean of Strongest Frequency Via Spectral Centroid Avg rhythm
+-0.130855803917	MFCC [10] Avg rhythm
+0.130858694194	Derivative of Running Mean of Spectral Centroid Avg rhythm
+0.130890325802	Derivative of Running Mean of Fraction Of Low Energy Windows Std rhythm
+0.130900629405	Derivative of Standard Deviation of Fraction Of Low Energy Windows Std rhythm
+0.130937126815	Method of Moments [4] Std tonal
+0.131069822826	MFCC [3] Std tonal
+-0.131102414444	Running Mean of MFCC [10] Avg rhythm
+-0.131325078638	Derivative of Strongest Frequency Via Zero Crossings Std rhythm
+-0.131447528942	Derivative of Running Mean of MFCC [2] Avg rhythm
+-0.131571478611	Derivative of Zero Crossings Std rhythm
+0.131802815429	Standard Deviation of Method of Moments [3] Std overall
+0.131834339652	Running Mean of Method of Moments [3] Std overall
+0.132291797954	Derivative of Spectral Flux Std rhythm
+0.132330432213	Running Mean of LPC [1] Avg rhythm
+0.132454840142	Derivative of Zero Crossings Avg tonal
+0.132505937083	Derivative of Strongest Frequency Via Zero Crossings Avg tonal
+-0.133075324555	Derivative of Running Mean of Spectral Rolloff Point Std tonal
+0.133206792999	Derivative of Method of Moments [2] Avg overall
+0.133437426428	Derivative of Standard Deviation of Spectral Flux Std rhythm
+-0.133652578413	MFCC [9] Std overall
+-0.133797517986	Derivative of Area Method of Moments [5] Std overall
+0.133903299808	Derivative of Running Mean of Spectral Flux Std rhythm
+-0.134381241276	Spectral Rolloff Point Avg tonal
+-0.134483150746	Derivative of Area Method of Moments [4] Std overall
+-0.134586496783	Derivative of Standard Deviation of Spectral Rolloff Point Std tonal
+-0.134630111091	MFCC [11] Std rhythm
+0.134637964813	Derivative of Standard Deviation of Spectral Variability Std overall
+-0.134742860567	Zero Crossings Std tonal
+-0.134764092854	Strongest Frequency Via Zero Crossings Std tonal
+0.134793677581	Derivative of Running Mean of Spectral Variability Std overall
+-0.135060111623	Standard Deviation of Spectral Centroid Avg tonal
+-0.135075198914	Standard Deviation of Strongest Frequency Via Spectral Centroid Avg tonal
+-0.135100833159	Running Mean of Strongest Frequency Via Spectral Centroid Avg tonal
+-0.135170073447	Running Mean of Spectral Centroid Avg tonal
+0.135513993863	Derivative of Standard Deviation of MFCC [0] Avg rhythm
+0.135584998978	Standard Deviation of MFCC [0] Avg tonal
+-0.135654506658	Derivative of Running Mean of MFCC [0] Avg rhythm
+0.135655086934	Derivative of Strongest Beat Std tonal
+-0.135700718737	Running Mean of MFCC [0] Avg tonal
+0.135795951042	Derivative of Beat Sum Std overall
+-0.135878080002	Derivative of Area Method of Moments [3] Std overall
+0.136318505481	Derivative of Area Method of Moments [7] Std tonal
+-0.136439621736	Derivative of Running Mean of LPC [3] Std rhythm
+0.136568750302	Running Mean of MFCC [2] Std overall
+-0.13719422766	Derivative of Method of Moments [1] Std overall
+0.137278099603	LPC [1] Avg rhythm
+-0.137382583326	MFCC [0] Avg tonal
+-0.137449630211	Standard Deviation of Partial Based Spectral Centroid Avg tonal
+-0.137496368624	Partial Based Spectral Centroid Std overall
+-0.137584393552	Running Mean of Partial Based Spectral Centroid Avg tonal
+0.137590674275	Derivative of MFCC [6] Std overall
+-0.138851225299	Spectral Centroid Avg tonal
+-0.138913449141	Strongest Frequency Via Spectral Centroid Avg tonal
+0.139197405583	Derivative of MFCC [8] Avg overall
+-0.13924531995	Derivative of Standard Deviation of Area Method of Moments [0] Avg tonal
+-0.139340125601	Derivative of Running Mean of Area Method of Moments [0] Avg tonal
+-0.139341388192	Derivative of MFCC [2] Std rhythm
+-0.139476906522	Derivative of Running Mean of MFCC [5] Std overall
+0.139512121699	Running Mean of Strongest Beat Std tonal
+0.13962778471	Standard Deviation of Strongest Beat Std tonal
+0.139703462317	MFCC [3] Std overall
+0.14018768327	Area Method of Moments of MFCCs [6] Avg tonal
+0.140214463945	Area Method of Moments [6] Avg tonal
+0.14021771393	Standard Deviation of Area Method of Moments [6] Avg tonal
+0.14021771393	Running Mean of Area Method of Moments [6] Avg tonal
+0.140269607249	Area Method of Moments [9] Avg tonal
+0.140275116442	Running Mean of Area Method of Moments [9] Avg tonal
+0.140275116442	Standard Deviation of Area Method of Moments [9] Avg tonal
+-0.140607423304	Derivative of MFCC [8] Std tonal
+-0.140773269568	Derivative of Running Mean of MFCC [10] Std tonal
+-0.141267756758	Derivative of Area Method of Moments [8] Std overall
+-0.141505034599	Derivative of Running Mean of MFCC [11] Std rhythm
+-0.141554380256	Derivative of LPC [4] Std overall
+0.141616857081	Derivative of Standard Deviation of Strength Of Strongest Beat Std overall
+0.141616857081	Derivative of Running Mean of Strength Of Strongest Beat Std overall
+0.142210714926	Derivative of Area Method of Moments [8] Std tonal
+-0.14236562626	Derivative of Fraction Of Low Energy Windows Avg tonal
+-0.142397831543	Derivative of Running Mean of Area Method of Moments [9] Std overall
+-0.142397831543	Derivative of Standard Deviation of Area Method of Moments [9] Std overall
+0.14263906425	Running Mean of MFCC [3] Std overall
+0.142789755942	Derivative of Method of Moments [2] Avg rhythm
+-0.142836938492	Derivative of Running Mean of Spectral Rolloff Point Avg tonal
+-0.142839300438	Running Mean of LPC [7] Std tonal
+0.142956254105	Method of Moments [2] Std tonal
+-0.143168307805	Derivative of Standard Deviation of Spectral Rolloff Point Avg tonal
+0.143486276183	Derivative of Standard Deviation of Root Mean Square Std overall
+0.143734382646	Derivative of Running Mean of Root Mean Square Std overall
+0.143868404987	Standard Deviation of Area Method of Moments [5] Avg tonal
+-0.143868404987	Running Mean of Area Method of Moments [5] Avg tonal
+-0.143868404987	Area Method of Moments [5] Avg tonal
+0.143911443452	Area Method of Moments [8] Avg tonal
+0.143970147329	Running Mean of Area Method of Moments [8] Avg tonal
+0.143970147329	Standard Deviation of Area Method of Moments [8] Avg tonal
+0.144156428608	Area Method of Moments [7] Avg tonal
+0.144161564323	Running Mean of Area Method of Moments [7] Avg tonal
+0.144161564323	Standard Deviation of Area Method of Moments [7] Avg tonal
+-0.144183098739	Running Mean of Area Method of Moments [4] Avg tonal
+-0.144183098739	Area Method of Moments [4] Avg tonal
+0.144183098739	Standard Deviation of Area Method of Moments [4] Avg tonal
+-0.1442802431	Derivative of Partial Based Spectral Centroid Avg rhythm
+-0.144346881121	Area Method of Moments of MFCCs [3] Avg tonal
+-0.144361401427	Derivative of Running Mean of LPC [3] Avg tonal
+-0.144369168173	Area Method of Moments [3] Avg tonal
+0.144369168173	Standard Deviation of Area Method of Moments [3] Avg tonal
+-0.144369168173	Running Mean of Area Method of Moments [3] Avg tonal
+0.144414074525	Derivative of Area Method of Moments [6] Avg tonal
+0.14446309233	Derivative of Standard Deviation of Area Method of Moments [6] Avg tonal
+0.14446309233	Derivative of Running Mean of Area Method of Moments [6] Avg tonal
+-0.144510863057	Partial Based Spectral Centroid Avg tonal
+-0.144724613008	Derivative of Running Mean of LPC [5] Std overall
+0.144792762242	Area Method of Moments of MFCCs [6] Std tonal
+0.144855139675	Area Method of Moments [6] Std tonal
+0.144912074032	Running Mean of Area Method of Moments [6] Std tonal
+0.144912074032	Standard Deviation of Area Method of Moments [6] Std tonal
+-0.145039460551	Derivative of Standard Deviation of Partial Based Spectral Centroid Std overall
+-0.145138061418	Derivative of Method of Moments [0] Avg tonal
+-0.145147266463	MFCC [9] Std rhythm
+0.14516770277	Derivative of Fraction Of Low Energy Windows Avg overall
+-0.145199695285	Derivative of Running Mean of Partial Based Spectral Centroid Std overall
+-0.145601930445	Spectral Rolloff Point Avg overall
+-0.146044465536	Derivative of Standard Deviation of Method of Moments [0] Avg tonal
+-0.146052891052	Derivative of Running Mean of Method of Moments [0] Avg tonal
+-0.146091201638	Derivative of Compactness Avg rhythm
+0.146154007635	Standard Deviation of Area Method of Moments [2] Avg tonal
+0.146154007635	Running Mean of Area Method of Moments [2] Avg tonal
+0.146164287308	Area Method of Moments [2] Avg tonal
+0.146317701403	Derivative of MFCC [7] Std tonal
+0.146395995104	Derivative of Area Method of Moments [5] Std tonal
+0.1464735985	Strength Of Strongest Beat Std tonal
+0.146535851452	Derivative of Running Mean of MFCC [3] Std rhythm
+0.146551416534	Derivative of Running Mean of LPC [6] Avg overall
+-0.146695760534	Spectral Rolloff Point Std tonal
+-0.146704816373	Running Mean of MFCC [7] Std tonal
+-0.146933412912	Derivative of MFCC [6] Avg tonal
+-0.147304169066	Derivative of Running Mean of Partial Based Spectral Centroid Avg tonal
+0.147413351237	Running Mean of Area Method of Moments [1] Avg tonal
+0.147413351237	Area Method of Moments [1] Avg tonal
+0.147413351237	Standard Deviation of Area Method of Moments [1] Avg tonal
+0.147414449529	Area Method of Moments of MFCCs [1] Avg tonal
+-0.147418988347	Derivative of Running Mean of MFCC [0] Std rhythm
+-0.147422201581	Derivative of Standard Deviation of Partial Based Spectral Centroid Avg tonal
+-0.147482578581	Derivative of Running Mean of Area Method of Moments [3] Avg tonal
+0.147482578581	Derivative of Standard Deviation of Area Method of Moments [3] Avg tonal
+-0.147553076194	Derivative of Area Method of Moments [3] Avg tonal
+-0.147705177882	LPC [3] Std rhythm
+-0.148124340372	Derivative of Standard Deviation of MFCC [0] Std rhythm
+0.148274296961	MFCC [0] Std tonal
+-0.148326435233	Standard Deviation of Compactness Std overall
+-0.148430206108	Running Mean of Compactness Std overall
+-0.148685023531	Standard Deviation of Partial Based Spectral Centroid Std tonal
+0.148736207281	Derivative of Running Mean of Area Method of Moments [7] Std tonal
+0.148736207281	Derivative of Standard Deviation of Area Method of Moments [7] Std tonal
+-0.148753882638	Standard Deviation of Strength Of Strongest Beat Std rhythm
+-0.148753882638	Running Mean of Strength Of Strongest Beat Std rhythm
+0.148940288093	Derivative of Running Mean of Method of Moments [3] Std tonal
+-0.148994683835	Derivative of Strongest Frequency Via Spectral Centroid Std rhythm
+-0.149001014383	Running Mean of Compactness Avg rhythm
+-0.14906312169	Derivative of Spectral Centroid Std rhythm
+0.149138378897	Derivative of Standard Deviation of Method of Moments [3] Std tonal
+-0.149143716795	Running Mean of Partial Based Spectral Centroid Std tonal
+-0.149522451795	Derivative of Running Mean of MFCC [5] Avg tonal
+-0.149590586589	MFCC [8] Avg overall
+0.149630368378	Derivative of LPC [0] Avg tonal
+0.149675667821	MFCC [1] Avg overall
+0.149731029515	Derivative of Running Mean of Area Method of Moments [8] Std tonal
+0.149731029515	Derivative of Standard Deviation of Area Method of Moments [8] Std tonal
+-0.150097120234	Standard Deviation of Compactness Avg rhythm
+-0.150154553598	Standard Deviation of Spectral Rolloff Point Avg overall
+-0.150197503662	Running Mean of Spectral Rolloff Point Avg overall
+0.150243613432	Derivative of Running Mean of MFCC [3] Avg overall
+0.150546502839	Derivative of MFCC [3] Avg overall
+-0.150546770979	Derivative of Spectral Rolloff Point Std overall
+-0.150629542034	Standard Deviation of Peak Based Spectral Smoothness Avg tonal
+-0.150788873329	Running Mean of Peak Based Spectral Smoothness Avg tonal
+0.150826712991	Derivative of Standard Deviation of Area Method of Moments [5] Std tonal
+0.150826712991	Derivative of Running Mean of Area Method of Moments [5] Std tonal
+0.150896792503	Derivative of Standard Deviation of Area Method of Moments [4] Std tonal
+0.150896792503	Derivative of Running Mean of Area Method of Moments [4] Std tonal
+0.151164783298	Derivative of Standard Deviation of Compactness Avg tonal
+-0.151191450635	Standard Deviation of Method of Moments [4] Avg rhythm
+0.151222954595	Derivative of MFCC [2] Avg rhythm
+0.151297461329	Derivative of Running Mean of Compactness Avg tonal
+-0.151335172556	Running Mean of Method of Moments [4] Avg rhythm
+0.15140673173	Area Method of Moments [3] Std tonal
+-0.151415093115	Derivative of Spectral Centroid Std tonal
+0.151518586637	Area Method of Moments of MFCCs [3] Std tonal
+0.151580087762	Standard Deviation of Area Method of Moments [3] Std tonal
+0.151580087762	Running Mean of Area Method of Moments [3] Std tonal
+-0.151585516433	Derivative of Strongest Frequency Via Spectral Centroid Std tonal
+-0.151815208345	Running Mean of LPC [7] Std overall
+-0.151881586273	Strongest Frequency Via Spectral Centroid Avg overall
+-0.151928172075	Spectral Centroid Avg overall
+-0.152082934979	LPC [5] Std overall
+-0.152227590926	Running Mean of Zero Crossings Avg tonal
+-0.152232171169	Standard Deviation of Strongest Frequency Via Zero Crossings Avg tonal
+-0.152271946758	Standard Deviation of Zero Crossings Avg tonal
+-0.152323307919	Running Mean of Strongest Frequency Via Zero Crossings Avg tonal
+0.152387488365	Running Mean of MFCC [1] Avg overall
+0.152422943658	Standard Deviation of MFCC [1] Avg overall
+-0.152459056761	Derivative of MFCC [1] Avg tonal
+0.152772995933	Derivative of Running Mean of LPC [1] Avg overall
+-0.152845968181	Running Mean of MFCC [8] Avg overall
+0.152858583603	Derivative of Strength Of Strongest Beat Std tonal
+-0.153164991905	Zero Crossings Avg tonal
+-0.153166457561	Strongest Frequency Via Zero Crossings Avg tonal
+-0.153644342627	Derivative of Area Method of Moments [0] Avg tonal
+-0.15367024921	Derivative of Running Mean of MFCC [9] Avg rhythm
+-0.153738646851	MFCC [10] Std tonal
+-0.153821203307	Derivative of Strongest Frequency Via FFT Maximum Std rhythm
+-0.153827550537	Derivative of Running Mean of MFCC [5] Std rhythm
+0.153966368919	Derivative of Running Mean of LPC [1] Std tonal
+-0.154104965175	Derivative of Running Mean of MFCC [2] Avg tonal
+-0.154380571925	Running Mean of MFCC [12] Std rhythm
+0.154681738422	Running Mean of Method of Moments [3] Std tonal
+0.154767268356	Standard Deviation of Method of Moments [3] Std tonal
+-0.154945987212	Peak Based Spectral Smoothness Avg tonal
+-0.155084244601	Derivative of Running Mean of LPC [4] Std overall
+-0.15519116181	Method of Moments [4] Avg rhythm
+-0.15536071314	Standard Deviation of Compactness Std rhythm
+-0.155405003707	Running Mean of Compactness Std rhythm
+-0.155890885214	MFCC [12] Std overall
+-0.156013848397	Compactness Avg rhythm
+-0.156637209312	Standard Deviation of Spectral Centroid Avg overall
+-0.156638563105	Derivative of LPC [0] Std rhythm
+-0.156711937092	Standard Deviation of Strongest Frequency Via Spectral Centroid Avg overall
+-0.156724190459	Running Mean of Spectral Centroid Avg overall
+-0.156760247385	Running Mean of Strongest Frequency Via Spectral Centroid Avg overall
+-0.156801745629	Derivative of MFCC [11] Std tonal
+-0.157190660532	Derivative of Standard Deviation of Method of Moments [1] Std rhythm
+-0.157217239287	Derivative of Running Mean of Method of Moments [1] Std rhythm
+-0.157386626541	LPC [4] Std overall
+-0.157400826542	Derivative of Strongest Frequency Via Zero Crossings Avg rhythm
+-0.157418150136	Derivative of Zero Crossings Avg rhythm
+0.157457332299	Derivative of Area Method of Moments [9] Std tonal
+-0.159681426664	Strongest Frequency Via Zero Crossings Avg overall
+-0.159772465221	Zero Crossings Avg overall
+0.160135573446	LPC [5] Std tonal
+0.160762643189	Strongest Beat Std tonal
+-0.162076148722	Area Method of Moments of MFCCs [0] Std rhythm
+-0.16214320827	Derivative of Running Mean of MFCC [9] Std overall
+0.162387914252	Derivative of Running Mean of LPC [7] Avg tonal
+0.162591686622	MFCC [12] Avg overall
+-0.162955564229	MFCC [9] Avg overall
+-0.16308027318	Running Mean of LPC [5] Std rhythm
+0.163140892737	Running Mean of MFCC [12] Avg overall
+-0.163942081645	Standard Deviation of Zero Crossings Avg overall
+0.163965773467	Derivative of LPC [1] Std tonal
+-0.164011746129	Standard Deviation of Strongest Frequency Via Zero Crossings Avg overall
+-0.164015888027	Running Mean of Zero Crossings Avg overall
+0.164060205127	Method of Moments [3] Std tonal
+-0.164061384784	Running Mean of Strongest Frequency Via Zero Crossings Avg overall
+-0.164990814624	Derivative of MFCC [10] Avg overall
+-0.165176254249	Derivative of LPC [3] Std rhythm
+-0.166325611489	Derivative of Running Mean of MFCC [9] Std rhythm
+0.166543219012	Standard Deviation of Spectral Rolloff Point Std rhythm
+0.166606979233	Running Mean of Spectral Rolloff Point Std rhythm
+0.166734040243	Derivative of Area Method of Moments [4] Std tonal
+-0.167023881781	Area Method of Moments of MFCCs [0] Std overall
+-0.167181766437	LPC [5] Avg rhythm
+-0.167294060848	Running Mean of LPC [5] Avg rhythm
+-0.167705009686	LPC [0] Avg tonal
+-0.167942174616	Running Mean of LPC [0] Avg tonal
+-0.168100271529	Compactness Avg overall
+0.16823320349	Standard Deviation of LPC [0] Avg tonal
+-0.168847309253	Running Mean of LPC [4] Std overall
+-0.169029751689	Derivative of MFCC [11] Avg rhythm
+-0.169212079008	Running Mean of Compactness Avg overall
+-0.169954449469	Derivative of Running Mean of LPC [4] Avg overall
+-0.170379407062	Standard Deviation of Compactness Avg overall
+-0.17091932437	Derivative of LPC [1] Avg rhythm
+0.171060402652	Derivative of Running Mean of Area Method of Moments [9] Std tonal
+0.171060402652	Derivative of Standard Deviation of Area Method of Moments [9] Std tonal
+-0.171385078998	Running Mean of Method of Moments [2] Avg overall
+-0.171547113442	Standard Deviation of Method of Moments [2] Avg overall
+-0.171690744749	Standard Deviation of Area Method of Moments [3] Std overall
+-0.171690744749	Running Mean of Area Method of Moments [3] Std overall
+-0.171931256455	Area Method of Moments [2] Std tonal
+-0.1720467203	Derivative of MFCC [7] Avg tonal
+-0.172073676054	Running Mean of Method of Moments [2] Avg rhythm
+-0.172135347129	Standard Deviation of Method of Moments [2] Avg rhythm
+0.172230100185	Running Mean of MFCC [2] Std rhythm
+-0.172240655521	Running Mean of Method of Moments [3] Avg rhythm
+-0.172350571695	Method of Moments [2] Avg overall
+-0.172369502248	Standard Deviation of Method of Moments [3] Avg rhythm
+-0.172377673221	Running Mean of MFCC [9] Avg overall
+-0.172398104692	Derivative of Area Method of Moments [6] Std overall
+-0.172441655869	Derivative of Running Mean of LPC [8] Std rhythm
+0.172540698943	Running Mean of LPC [5] Avg tonal
+0.172662405159	Derivative of Running Mean of MFCC [3] Std overall
+-0.17289715837	Area Method of Moments [3] Std overall
+-0.172983504604	Standard Deviation of Area Method of Moments [2] Std tonal
+-0.172983504604	Running Mean of Area Method of Moments [2] Std tonal
+-0.173002305921	Area Method of Moments of MFCCs [3] Std overall
+-0.173063710097	Derivative of Area Method of Moments [2] Avg tonal
+-0.173662873687	Running Mean of Area Method of Moments [2] Std overall
+-0.173662873687	Standard Deviation of Area Method of Moments [2] Std overall
+-0.173795745344	Area Method of Moments [2] Std overall
+-0.17384792113	Method of Moments [1] Avg tonal
+-0.174689730049	MFCC [11] Std overall
+0.174971260881	Derivative of Running Mean of Strongest Beat Std tonal
+0.17501007429	Derivative of Standard Deviation of Strongest Beat Std tonal
+0.175106121076	LPC [5] Avg tonal
+-0.175315140932	Derivative of Running Mean of LPC [8] Std overall
+-0.175425955368	Derivative of Partial Based Spectral Centroid Std overall
+-0.175512162669	Derivative of Standard Deviation of Area Method of Moments [2] Avg tonal
+-0.175512162669	Derivative of Running Mean of Area Method of Moments [2] Avg tonal
+-0.176269884968	Method of Moments [3] Avg rhythm
+0.17632879555	Area Method of Moments of MFCCs [0] Avg rhythm
+-0.176635689718	Derivative of Peak Based Spectral Smoothness Std overall
+-0.176854689702	Running Mean of Method of Moments [1] Avg tonal
+-0.176872699053	Standard Deviation of Method of Moments [1] Avg tonal
+-0.176932763292	LPC [0] Avg overall
+0.17747066955	Derivative of Area Method of Moments [6] Std tonal
+0.177533225703	Derivative of Running Mean of LPC [5] Std tonal
+-0.177849391232	Method of Moments [2] Avg rhythm
+0.178575023774	Derivative of Running Mean of LPC [1] Avg rhythm
+0.178753153369	Derivative of Standard Deviation of Compactness Avg rhythm
+0.178812115451	Derivative of Running Mean of Compactness Avg rhythm
+0.179430595417	Derivative of LPC [5] Avg rhythm
+0.179680728768	Derivative of Running Mean of MFCC [4] Std tonal
+0.180158647911	Standard Deviation of Peak Based Spectral Smoothness Std rhythm
+0.180242961629	Running Mean of Peak Based Spectral Smoothness Std rhythm
+-0.180573661527	Method of Moments [2] Std rhythm
+0.181075255189	Derivative of Strongest Frequency Via FFT Maximum Avg tonal
+-0.181124297436	Area Method of Moments of MFCCs [4] Std overall
+-0.181248149338	Area Method of Moments of MFCCs [7] Std overall
+-0.182164598731	Derivative of Spectral Rolloff Point Std tonal
+0.182239886071	Derivative of Strongest Frequency Via Spectral Centroid Avg overall
+0.182240198877	Derivative of Spectral Centroid Avg overall
+0.182838574305	Derivative of Method of Moments [1] Avg overall
+-0.18296633649	Running Mean of LPC [0] Avg overall
+-0.183168685102	Derivative of Running Mean of Method of Moments [2] Std rhythm
+-0.183184360765	Derivative of Standard Deviation of Method of Moments [2] Std rhythm
+0.183414403183	Standard Deviation of LPC [0] Avg overall
+-0.184003581698	Area Method of Moments of MFCCs [5] Std overall
+-0.18411153859	Area Method of Moments of MFCCs [8] Std overall
+-0.184593308754	Derivative of Running Mean of LPC [3] Avg rhythm
+-0.184820416536	Derivative of Area Method of Moments [9] Std overall
+-0.185023495132	Derivative of MFCC [11] Std rhythm
+0.185254259997	Running Mean of LPC [1] Std tonal
+-0.18601861438	Derivative of Running Mean of Area Method of Moments [6] Std overall
+-0.18601861438	Derivative of Standard Deviation of Area Method of Moments [6] Std overall
+-0.18642542649	Derivative of Running Mean of MFCC [11] Std overall
+-0.186818926727	Derivative of MFCC [6] Avg overall
+-0.18760131868	Derivative of Area Method of Moments [7] Std overall
+0.18769450015	MFCC [6] Avg overall
+-0.187800918572	Derivative of Standard Deviation of Peak Based Spectral Smoothness Std tonal
+-0.18785137809	Derivative of Running Mean of Peak Based Spectral Smoothness Std tonal
+0.187975687289	Running Mean of MFCC [6] Avg overall
+0.190584829434	Running Mean of MFCC [10] Avg tonal
+-0.191099144829	Derivative of Running Mean of MFCC [7] Avg overall
+-0.191496482969	MFCC [9] Avg rhythm
+-0.191973044896	MFCC [0] Std rhythm
+0.192042172079	Derivative of MFCC [7] Std rhythm
+0.192191443558	Derivative of Method of Moments [1] Avg tonal
+-0.193233664831	Running Mean of Area Method of Moments [6] Std overall
+-0.193233664831	Standard Deviation of Area Method of Moments [6] Std overall
+-0.193307015265	Area Method of Moments [2] Avg overall
+-0.193358783167	Running Mean of Area Method of Moments [2] Avg overall
+-0.193358783167	Standard Deviation of Area Method of Moments [2] Avg overall
+-0.193580540421	Area Method of Moments [6] Std overall
+-0.193732146042	Area Method of Moments of MFCCs [6] Std overall
+0.193755502077	MFCC [10] Avg tonal
+0.194007277241	Running Mean of MFCC [3] Std tonal
+0.194086583568	Derivative of Running Mean of Area Method of Moments [6] Std tonal
+0.194086583568	Derivative of Standard Deviation of Area Method of Moments [6] Std tonal
+-0.194212518278	Derivative of Zero Crossings Std tonal
+-0.194365216956	Derivative of Strongest Frequency Via Zero Crossings Std tonal
+-0.194371020623	LPC [1] Std rhythm
+-0.194400068225	Derivative of LPC [6] Avg rhythm
+-0.194816037612	Derivative of Method of Moments [2] Std rhythm
+-0.195324183052	Method of Moments [1] Avg overall
+-0.195881218576	Derivative of Standard Deviation of Area Method of Moments [3] Avg overall
+0.195881218576	Derivative of Running Mean of Area Method of Moments [3] Avg overall
+0.195926897127	Derivative of Area Method of Moments [3] Avg overall
+-0.196037777954	Area Method of Moments of MFCCs [1] Avg overall
+-0.196045785602	Running Mean of Area Method of Moments [1] Avg overall
+-0.196045785602	Area Method of Moments [1] Avg overall
+-0.196045785602	Standard Deviation of Area Method of Moments [1] Avg overall
+-0.196522062093	Derivative of Running Mean of MFCC [2] Avg overall
+-0.196576250818	Running Mean of Method of Moments [1] Avg overall
+-0.1966216058	Standard Deviation of Method of Moments [1] Avg overall
+-0.196701547808	Derivative of LPC [3] Avg overall
+-0.196780514623	Derivative of LPC [0] Std overall
+-0.197113597966	Derivative of Area Method of Moments [2] Avg overall
+-0.197478231766	Standard Deviation of Relative Difference Function Std overall
+-0.197773525898	Running Mean of Relative Difference Function Std overall
+-0.198286873633	Derivative of Running Mean of Area Method of Moments [2] Avg overall
+-0.198286873633	Derivative of Standard Deviation of Area Method of Moments [2] Avg overall
+-0.198401534227	Derivative of LPC [8] Avg rhythm
+-0.199246198517	Derivative of Standard Deviation of Area Method of Moments [8] Std rhythm
+-0.199246198517	Derivative of Running Mean of Area Method of Moments [8] Std rhythm
+-0.199519004961	Running Mean of Area Method of Moments [8] Avg overall
+-0.199519004961	Standard Deviation of Area Method of Moments [8] Avg overall
+0.199537841422	Running Mean of Area Method of Moments [5] Avg overall
+0.199537841422	Area Method of Moments [5] Avg overall
+-0.199537841422	Standard Deviation of Area Method of Moments [5] Avg overall
+-0.199566608748	Area Method of Moments [8] Avg overall
+-0.19958456303	Derivative of Running Mean of Area Method of Moments [5] Std rhythm
+-0.19958456303	Derivative of Standard Deviation of Area Method of Moments [5] Std rhythm
+-0.200264511654	Running Mean of MFCC [8] Avg rhythm
+-0.20076904163	MFCC [8] Avg rhythm
+-0.201119125576	Derivative of LPC [7] Std tonal
+0.201135036376	Running Mean of Area Method of Moments [4] Avg overall
+0.201135036376	Area Method of Moments [4] Avg overall
+-0.201135036376	Standard Deviation of Area Method of Moments [4] Avg overall
+-0.20116705467	Area Method of Moments [7] Avg overall
+-0.201170254645	Running Mean of Area Method of Moments [7] Avg overall
+-0.201170254645	Standard Deviation of Area Method of Moments [7] Avg overall
+0.201245028391	Derivative of Running Mean of MFCC [10] Avg tonal
+-0.201367948901	Running Mean of MFCC [9] Avg rhythm
+-0.201474792431	Derivative of LPC [1] Std rhythm
+0.2017546143	Derivative of Running Mean of MFCC [11] Avg tonal
+-0.201877925687	Derivative of LPC [8] Avg tonal
+-0.201888847091	Derivative of Method of Moments [1] Std rhythm
+-0.202146075253	Running Mean of LPC [3] Avg overall
+-0.202515072604	Derivative of Standard Deviation of Area Method of Moments [6] Avg overall
+-0.202515072604	Derivative of Running Mean of Area Method of Moments [6] Avg overall
+-0.202590761649	Derivative of Area Method of Moments [6] Avg overall
+0.202635546693	Area Method of Moments of MFCCs [3] Avg overall
+0.202635914574	Area Method of Moments [3] Avg overall
+0.202635914574	Running Mean of Area Method of Moments [3] Avg overall
+-0.202635914574	Standard Deviation of Area Method of Moments [3] Avg overall
+-0.202846348028	Derivative of MFCC [12] Std overall
+-0.20330772478	Running Mean of Area Method of Moments [9] Avg overall
+-0.20330772478	Standard Deviation of Area Method of Moments [9] Avg overall
+-0.203324909598	Area Method of Moments [9] Avg overall
+-0.20423600239	Derivative of Strongest Frequency Via FFT Maximum Avg overall
+-0.204250689299	LPC [3] Avg overall
+-0.205516242015	Derivative of LPC [3] Avg rhythm
+-0.206440351445	Area Method of Moments of MFCCs [6] Avg overall
+-0.206450787575	Running Mean of Area Method of Moments [6] Avg overall
+-0.206450787575	Standard Deviation of Area Method of Moments [6] Avg overall
+-0.206454705093	Area Method of Moments [6] Avg overall
+0.206509609914	Derivative of Area Method of Moments [3] Std tonal
+-0.206570376567	Running Mean of LPC [3] Avg rhythm
+-0.207538847126	Derivative of Running Mean of Area Method of Moments [4] Std rhythm
+-0.207538847126	Derivative of Standard Deviation of Area Method of Moments [4] Std rhythm
+-0.20801687344	Derivative of Running Mean of Area Method of Moments [7] Std rhythm
+-0.20801687344	Derivative of Standard Deviation of Area Method of Moments [7] Std rhythm
+-0.209026784471	Derivative of Spectral Centroid Std overall
+-0.20907299781	Derivative of Strongest Frequency Via Spectral Centroid Std overall
+-0.209604715827	Peak Based Spectral Smoothness Std tonal
+-0.20961790724	LPC [3] Avg rhythm
+0.21121054959	Derivative of MFCC [3] Avg rhythm
+-0.211350282642	Derivative of Standard Deviation of Partial Based Spectral Centroid Std tonal
+-0.211446268363	Derivative of Running Mean of Partial Based Spectral Centroid Std tonal
+0.212121677787	Derivative of Running Mean of Fraction Of Low Energy Windows Std tonal
+0.212223268458	Derivative of Standard Deviation of Fraction Of Low Energy Windows Std tonal
+-0.213088326868	Derivative of MFCC [9] Std rhythm
+-0.213320205324	Standard Deviation of Relative Difference Function Std rhythm
+-0.213685233261	Running Mean of Relative Difference Function Std rhythm
+-0.213938549182	Derivative of Running Mean of LPC [1] Std rhythm
+-0.214693229722	Derivative of Running Mean of LPC [4] Std rhythm
+0.215970897551	LPC [1] Std tonal
+0.216635165933	Derivative of Running Mean of Area Method of Moments [1] Std tonal
+0.216635165933	Derivative of Standard Deviation of Area Method of Moments [1] Std tonal
+-0.217785050697	MFCC [5] Avg rhythm
+0.217823404372	Derivative of Spectral Flux Avg overall
+-0.220281053677	Derivative of Strongest Frequency Via Zero Crossings Std overall
+-0.220387775587	Derivative of Zero Crossings Std overall
+-0.220674712093	Derivative of LPC [4] Avg tonal
+-0.22337217265	Derivative of Running Mean of MFCC [7] Avg rhythm
+-0.224235298269	Area Method of Moments of MFCCs [4] Avg overall
+0.224408885943	Area Method of Moments of MFCCs [7] Avg overall
+-0.224675937006	Derivative of Running Mean of MFCC [4] Std rhythm
+-0.224710602397	Derivative of MFCC [9] Std overall
+-0.225328954083	MFCC [8] Std rhythm
+0.225599812029	Derivative of Standard Deviation of Area Method of Moments [1] Avg overall
+0.225599812029	Derivative of Running Mean of Area Method of Moments [1] Avg overall
+-0.225672542606	Running Mean of MFCC [5] Avg rhythm
+0.225842460497	Derivative of Area Method of Moments [1] Std tonal
+-0.225989951741	Derivative of LPC [5] Std overall
+-0.226487204289	Derivative of Partial Based Spectral Centroid Std tonal
+0.227084575382	Area Method of Moments of MFCCs [2] Avg overall
+-0.227753860683	Derivative of Running Mean of MFCC [12] Std rhythm
+-0.227955235257	Derivative of Peak Based Spectral Smoothness Std tonal
+-0.229069828201	MFCC [5] Avg overall
+0.230455034817	Derivative of Running Mean of Fraction Of Low Energy Windows Std overall
+0.230460817921	Derivative of Running Mean of LPC [7] Avg rhythm
+0.230523480844	Derivative of Standard Deviation of Fraction Of Low Energy Windows Std overall
+-0.231195078415	Running Mean of MFCC [0] Std rhythm
+-0.231228030591	Standard Deviation of MFCC [0] Std rhythm
+-0.231974497274	Derivative of Running Mean of MFCC [11] Avg rhythm
+-0.23213574861	MFCC [8] Std overall
+0.232640906893	Derivative of Standard Deviation of Compactness Avg overall
+-0.232754593974	Running Mean of LPC [4] Std rhythm
+0.232766718205	Derivative of Running Mean of Compactness Avg overall
+-0.232777383786	Partial Based Spectral Centroid Std tonal
+-0.232942180109	Derivative of Running Mean of Relative Difference Function Avg overall
+0.232988417634	Derivative of Standard Deviation of Relative Difference Function Avg overall
+-0.233283605275	Derivative of Running Mean of LPC [3] Avg overall
+0.233675116309	Derivative of Standard Deviation of Strength Of Strongest Beat Std tonal
+0.233675116309	Derivative of Running Mean of Strength Of Strongest Beat Std tonal
+-0.233771230702	Derivative of Running Mean of LPC [4] Avg rhythm
+-0.233897687058	Derivative of MFCC [10] Avg rhythm
+-0.234280046027	LPC [4] Std rhythm
+0.234554551943	MFCC [1] Avg tonal
+0.235808864461	Derivative of Spectral Flux Avg tonal
+0.23646954255	Area Method of Moments of MFCCs [5] Avg overall
+-0.236527357418	Area Method of Moments of MFCCs [8] Avg overall
+-0.236803206761	Running Mean of MFCC [5] Avg overall
+0.238158382301	Running Mean of MFCC [1] Avg tonal
+0.238176218376	Standard Deviation of MFCC [1] Avg tonal
+-0.23830899168	Derivative of MFCC [12] Std rhythm
+-0.239366565916	Area Method of Moments of MFCCs [9] Std tonal
+-0.239476963949	LPC [7] Std tonal
+0.239565262912	Area Method of Moments of MFCCs [9] Avg overall
+0.24004294632	Derivative of Running Mean of MFCC [9] Avg tonal
+0.240404554525	Derivative of MFCC [7] Std overall
+-0.240562372698	Area Method of Moments of MFCCs [9] Std overall
+-0.240999673185	Derivative of MFCC [11] Std overall
+0.244583996556	Derivative of Running Mean of LPC [6] Avg rhythm
+-0.246269731626	Derivative of LPC [4] Std rhythm
+0.249277408328	Derivative of Running Mean of MFCC [3] Avg rhythm
+0.250943556362	Derivative of MFCC [8] Avg rhythm
+-0.250976764236	Derivative of Running Mean of MFCC [8] Avg overall
+-0.251402234818	Running Mean of Area Method of Moments [7] Std overall
+-0.251402234818	Standard Deviation of Area Method of Moments [7] Std overall
+-0.251680397524	Area Method of Moments [7] Std overall
+-0.251722100955	Standard Deviation of Area Method of Moments [4] Std overall
+-0.251722100955	Running Mean of Area Method of Moments [4] Std overall
+-0.251953914762	Area Method of Moments [4] Std overall
+-0.252026890897	Derivative of LPC [8] Std overall
+0.25273739282	MFCC [12] Avg rhythm
+-0.25414129389	Derivative of Running Mean of LPC [7] Std tonal
+0.256275755985	Running Mean of MFCC [12] Avg rhythm
+0.258888118878	Derivative of Standard Deviation of Area Method of Moments [1] Avg rhythm
+0.258888118878	Derivative of Running Mean of Area Method of Moments [1] Avg rhythm
+-0.259268764036	Derivative of Running Mean of MFCC [8] Std overall
+-0.260536799831	MFCC [12] Std rhythm
+-0.261607290205	Area Method of Moments [9] Std overall
+-0.262037937923	Standard Deviation of Area Method of Moments [9] Std overall
+-0.262037937923	Running Mean of Area Method of Moments [9] Std overall
+-0.262116607617	Derivative of Running Mean of MFCC [8] Std rhythm
+-0.263049497278	Derivative of Area Method of Moments [9] Avg overall
+0.263050761491	MFCC [6] Avg rhythm
+-0.263230125117	Derivative of Running Mean of Area Method of Moments [9] Avg overall
+-0.263230125117	Derivative of Standard Deviation of Area Method of Moments [9] Avg overall
+0.264251112651	Running Mean of LPC [5] Std tonal
+-0.26521869835	Area Method of Moments of MFCCs [4] Std tonal
+-0.265620334174	Area Method of Moments of MFCCs [7] Std tonal
+0.266244128333	Running Mean of MFCC [6] Avg rhythm
+-0.267135704737	Derivative of Area Method of Moments [7] Avg overall
+0.267473358954	Derivative of Area Method of Moments [4] Avg overall
+-0.267594802745	Derivative of Standard Deviation of Area Method of Moments [7] Avg overall
+-0.267594802745	Derivative of Running Mean of Area Method of Moments [7] Avg overall
+-0.26789537093	Derivative of Standard Deviation of Area Method of Moments [4] Avg overall
+0.26789537093	Derivative of Running Mean of Area Method of Moments [4] Avg overall
+0.268164303712	LPC [2] Avg tonal
+-0.27067944683	Derivative of MFCC [2] Avg tonal
+0.272060194444	Running Mean of LPC [2] Avg tonal
+-0.27556321381	Derivative of Area Method of Moments [5] Std rhythm
+-0.278417567709	Derivative of LPC [8] Avg overall
+0.278487237073	Derivative of Running Mean of Area Method of Moments [3] Std tonal
+0.278487237073	Derivative of Standard Deviation of Area Method of Moments [3] Std tonal
+-0.278885679061	Area Method of Moments [8] Std overall
+-0.279149445011	Area Method of Moments [5] Std overall
+-0.279585231003	Standard Deviation of Area Method of Moments [8] Std overall
+-0.279585231003	Running Mean of Area Method of Moments [8] Std overall
+-0.279621633103	Running Mean of Area Method of Moments [5] Std overall
+-0.279621633103	Standard Deviation of Area Method of Moments [5] Std overall
+-0.27974119224	Derivative of MFCC [10] Std tonal
+0.28067567552	Derivative of Running Mean of LPC [7] Avg overall
+-0.28179818979	Derivative of Area Method of Moments [8] Std rhythm
+-0.281949386143	Derivative of LPC [8] Std rhythm
+0.284931661364	Area Method of Moments of MFCCs [1] Std overall
+0.285549461263	Area Method of Moments [1] Std overall
+0.285793343649	Derivative of Standard Deviation of Relative Difference Function Avg rhythm
+-0.28583321281	Derivative of Running Mean of Relative Difference Function Avg rhythm
+-0.286111810921	Derivative of Area Method of Moments [8] Avg overall
+0.286282650492	Derivative of Area Method of Moments [5] Avg overall
+-0.28674466908	Derivative of LPC [4] Avg rhythm
+0.286785678313	Derivative of Fraction Of Low Energy Windows Avg rhythm
+-0.287006826756	Derivative of Running Mean of Area Method of Moments [8] Avg overall
+-0.287006826756	Derivative of Standard Deviation of Area Method of Moments [8] Avg overall
+-0.287161716252	Derivative of Standard Deviation of Area Method of Moments [5] Avg overall
+0.287161716252	Derivative of Running Mean of Area Method of Moments [5] Avg overall
+0.28761685276	Standard Deviation of Area Method of Moments [1] Std overall
+0.28761685276	Running Mean of Area Method of Moments [1] Std overall
+0.287650227491	Running Mean of LPC [8] Avg overall
+0.288291618126	LPC [8] Avg overall
+-0.291477900966	Derivative of Area Method of Moments [4] Std rhythm
+-0.295650887164	Derivative of LPC [5] Std rhythm
+0.297571612189	Derivative of Peak Based Spectral Smoothness Avg tonal
+-0.297576516633	Area Method of Moments of MFCCs [8] Std tonal
+-0.297618716883	Area Method of Moments of MFCCs [5] Std tonal
+0.298922608576	Derivative of Spectral Centroid Avg tonal
+0.298927214461	Derivative of Strongest Frequency Via Spectral Centroid Avg tonal
+0.299675403107	Area Method of Moments of MFCCs [1] Std rhythm
+0.300829867034	Area Method of Moments [1] Std rhythm
+0.301840280015	Standard Deviation of Area Method of Moments [1] Std rhythm
+0.301840280015	Running Mean of Area Method of Moments [1] Std rhythm
+0.302461134229	Derivative of Spectral Rolloff Point Avg overall
+-0.304570094439	Derivative of Running Mean of Area Method of Moments [9] Std rhythm
+-0.304570094439	Derivative of Standard Deviation of Area Method of Moments [9] Std rhythm
+-0.308582563061	LPC [5] Std rhythm
+0.309615540837	LPC [7] Avg overall
+0.310812953288	LPC [8] Avg rhythm
+0.311634819868	Running Mean of LPC [8] Avg rhythm
+0.312072163282	Running Mean of LPC [7] Avg overall
+-0.312269688887	Derivative of Running Mean of LPC [5] Std rhythm
+0.321450582081	Running Mean of MFCC [3] Avg overall
+0.322535138919	MFCC [3] Avg overall
+-0.322670108318	Derivative of Area Method of Moments [3] Std rhythm
+-0.32674720495	Standard Deviation of Area Method of Moments [3] Std rhythm
+-0.32674720495	Running Mean of Area Method of Moments [3] Std rhythm
+-0.328126209973	Area Method of Moments [3] Std rhythm
+-0.328226800787	LPC [6] Std overall
+-0.328340402668	Area Method of Moments of MFCCs [3] Std rhythm
+-0.334767405225	Derivative of Running Mean of MFCC [8] Avg rhythm
+-0.335327223156	Derivative of Area Method of Moments [7] Std rhythm
+-0.338417309995	Running Mean of Area Method of Moments [8] Std rhythm
+-0.338417309995	Standard Deviation of Area Method of Moments [8] Std rhythm
+-0.338517252501	Running Mean of Area Method of Moments [5] Std rhythm
+-0.338517252501	Standard Deviation of Area Method of Moments [5] Std rhythm
+-0.33866215081	Area Method of Moments [8] Std rhythm
+-0.33868669503	Area Method of Moments of MFCCs [2] Std tonal
+-0.338885671974	Area Method of Moments [5] Std rhythm
+-0.343401781568	Derivative of MFCC [8] Std rhythm
+-0.346800064553	Derivative of Area Method of Moments [6] Std rhythm
+-0.347503530623	Derivative of Area Method of Moments [9] Std rhythm
+0.348355059295	Derivative of Partial Based Spectral Centroid Avg tonal
+-0.348727133224	Running Mean of Area Method of Moments [6] Std rhythm
+-0.348727133224	Standard Deviation of Area Method of Moments [6] Std rhythm
+-0.34911838407	Area Method of Moments [6] Std rhythm
+-0.349261624538	Area Method of Moments of MFCCs [6] Std rhythm
+-0.349745903351	Area Method of Moments [2] Avg rhythm
+-0.34980297391	Standard Deviation of Area Method of Moments [2] Avg rhythm
+-0.34980297391	Running Mean of Area Method of Moments [2] Avg rhythm
+-0.352073222904	Derivative of Running Mean of Area Method of Moments [8] Avg rhythm
+-0.352073222904	Derivative of Standard Deviation of Area Method of Moments [8] Avg rhythm
+-0.352204150277	Derivative of Standard Deviation of Area Method of Moments [5] Avg rhythm
+0.352204150277	Derivative of Running Mean of Area Method of Moments [5] Avg rhythm
+-0.352895574036	Derivative of Area Method of Moments [8] Avg rhythm
+0.35298512435	Derivative of Area Method of Moments [5] Avg rhythm
+-0.353938291657	Derivative of Standard Deviation of Area Method of Moments [3] Avg rhythm
+0.353938291657	Derivative of Running Mean of Area Method of Moments [3] Avg rhythm
+0.354047560309	Derivative of Area Method of Moments [3] Avg rhythm
+-0.354083463182	Area Method of Moments of MFCCs [1] Avg rhythm
+-0.35409265519	Running Mean of Area Method of Moments [1] Avg rhythm
+-0.35409265519	Area Method of Moments [1] Avg rhythm
+-0.35409265519	Standard Deviation of Area Method of Moments [1] Avg rhythm
+0.355831178541	Running Mean of Area Method of Moments [5] Avg rhythm
+0.355831178541	Area Method of Moments [5] Avg rhythm
+-0.355831178541	Standard Deviation of Area Method of Moments [5] Avg rhythm
+-0.35588297199	Standard Deviation of Area Method of Moments [8] Avg rhythm
+-0.35588297199	Running Mean of Area Method of Moments [8] Avg rhythm
+-0.355898987041	Area Method of Moments [8] Avg rhythm
+-0.357881041981	Standard Deviation of Area Method of Moments [9] Avg rhythm
+-0.357881041981	Running Mean of Area Method of Moments [9] Avg rhythm
+-0.357898434647	Area Method of Moments [9] Avg rhythm
+0.358059791634	Running Mean of Area Method of Moments [4] Avg rhythm
+0.358059791634	Area Method of Moments [4] Avg rhythm
+-0.358059791634	Standard Deviation of Area Method of Moments [4] Avg rhythm
+-0.358080050729	Area Method of Moments [7] Avg rhythm
+-0.35808785136	Running Mean of Area Method of Moments [7] Avg rhythm
+-0.35808785136	Standard Deviation of Area Method of Moments [7] Avg rhythm
+-0.358161642359	Derivative of MFCC [8] Std overall
+-0.35999138384	Derivative of Standard Deviation of Area Method of Moments [6] Avg rhythm
+-0.35999138384	Derivative of Running Mean of Area Method of Moments [6] Avg rhythm
+-0.360049661507	Derivative of Area Method of Moments [6] Avg rhythm
+0.360055869139	Area Method of Moments of MFCCs [3] Avg rhythm
+0.36007282983	Area Method of Moments [3] Avg rhythm
+-0.36007282983	Standard Deviation of Area Method of Moments [3] Avg rhythm
+0.36007282983	Running Mean of Area Method of Moments [3] Avg rhythm
+-0.360261490643	Derivative of LPC [4] Avg overall
+-0.361730373341	Area Method of Moments of MFCCs [6] Avg rhythm
+-0.361765647087	Running Mean of Area Method of Moments [6] Avg rhythm
+-0.361765647087	Standard Deviation of Area Method of Moments [6] Avg rhythm
+-0.361768135591	Area Method of Moments [6] Avg rhythm
+-0.362186719818	Running Mean of Area Method of Moments [7] Std rhythm
+-0.362186719818	Standard Deviation of Area Method of Moments [7] Std rhythm
+-0.362523897698	Standard Deviation of Area Method of Moments [4] Std rhythm
+-0.362523897698	Running Mean of Area Method of Moments [4] Std rhythm
+-0.362861293481	Area Method of Moments [7] Std rhythm
+-0.363170946003	Area Method of Moments [4] Std rhythm
+-0.36701818893	Standard Deviation of Area Method of Moments [9] Std rhythm
+-0.36701818893	Running Mean of Area Method of Moments [9] Std rhythm
+-0.367094482129	Area Method of Moments [9] Std rhythm
+0.368086493967	LPC [7] Avg rhythm
+-0.369138442733	Derivative of Standard Deviation of Area Method of Moments [3] Std rhythm
+-0.369138442733	Derivative of Running Mean of Area Method of Moments [3] Std rhythm
+0.371431505663	Area Method of Moments of MFCCs [2] Avg rhythm
+-0.372107255401	Derivative of Running Mean of Area Method of Moments [9] Avg rhythm
+-0.372107255401	Derivative of Standard Deviation of Area Method of Moments [9] Avg rhythm
+0.372140228477	Running Mean of LPC [7] Avg rhythm
+0.372144174278	Running Mean of MFCC [3] Avg rhythm
+0.372529118044	MFCC [3] Avg rhythm
+-0.373135232602	Derivative of Area Method of Moments [9] Avg rhythm
+-0.37449109883	Area Method of Moments of MFCCs [4] Avg rhythm
+0.374716034242	Area Method of Moments of MFCCs [7] Avg rhythm
+-0.375544672039	LPC [7] Std rhythm
+-0.376120438656	Derivative of Running Mean of Area Method of Moments [6] Std rhythm
+-0.376120438656	Derivative of Standard Deviation of Area Method of Moments [6] Std rhythm
+0.380324113469	Area Method of Moments of MFCCs [5] Avg rhythm
+-0.380344130896	Area Method of Moments of MFCCs [8] Avg rhythm
+0.382099582905	Area Method of Moments of MFCCs [9] Avg rhythm
+-0.382449082502	Derivative of Running Mean of Area Method of Moments [7] Avg rhythm
+-0.382449082502	Derivative of Standard Deviation of Area Method of Moments [7] Avg rhythm
+-0.382827704939	Derivative of Standard Deviation of Area Method of Moments [4] Avg rhythm
+0.382827704939	Derivative of Running Mean of Area Method of Moments [4] Avg rhythm
+-0.382978144067	Derivative of Area Method of Moments [7] Avg rhythm
+0.383243852042	Derivative of Area Method of Moments [4] Avg rhythm
+-0.389248768155	Derivative of Strongest Frequency Via FFT Maximum Avg rhythm
+-0.394628899887	Derivative of Running Mean of LPC [6] Std overall
+0.397186275995	Derivative of Spectral Rolloff Point Avg tonal
+-0.399360116146	LPC [6] Std rhythm
+-0.401823392051	Derivative of Running Mean of LPC [7] Std rhythm
+-0.44006279317	Derivative of LPC [6] Std overall
+-0.442474307109	LPC [7] Std overall
+-0.463625282987	Derivative of Running Mean of LPC [6] Std rhythm
+-0.472196142332	Derivative of Running Mean of LPC [7] Std overall
+-0.484140698047	Derivative of LPC [6] Std rhythm
+-0.499172718106	Derivative of LPC [7] Std rhythm
+-0.518690462242	Derivative of LPC [7] Std overall
