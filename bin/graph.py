@@ -1,6 +1,9 @@
 # Program to generate graphs of various information related to the features.
 # Run `python graph.py -h` to see usage options.
 
+# TODO: Allow caching of all entropy data so it does not have to be
+# recalculated every time you want to generate a graph.
+
 import argparse
 import os
 import sys
@@ -192,9 +195,9 @@ def generateCorrelation(values, output, ratings_dir, corType):
     plt.title('Correlation (' + corType + ')')
     plt.ylabel('Ratings')
     plt.xlabel('Entropies')
-    plt.plot(amEntropiesList, amRatingsList, 'r*', label = 'Amateur')
-    plt.plot(proEntropiesList, proRatingsList, 'g*', label = 'Professional')
-    plt.legend(('Profressional', 'Amateur'))
+    plt.plot(proEntropiesList, proRatingsList, 'bo', label = 'Professional')
+    plt.plot(amEntropiesList, amRatingsList, 'rs', label = 'Amateur')
+    plt.legend(('Profressional', 'Amateur'), numpoints = 1)
 
   saveFigure(output_dir, corType, graph)
 
@@ -220,7 +223,7 @@ def parseArgs():
   parser.add_argument('-s', '--loglog-spectrum', action='store_true', help='Loglog frequency spectrum of audio recording')
   parser.add_argument('-r', '--rhythm-correlation', action='store_true', help='Graph the correlation between the ratings and the rhythm entropies')
   parser.add_argument('-c', '--pitch-correlation', action='store_true', help='Graph the correlation between the ratings and the pitch entropies')
-  parser.add_argument('-u', '--ratings-dir', metavar='<ratings dir>', type=str, help='Directory that contains the user ratings. Required when -r or -c are specified')
+  parser.add_argument('-u', '--ratings-dir', metavar='<ratings dir>', type=str, help='Directory that contains the user ratings and optionally the entropies cache. Required when -r or -c are specified')
   parser.add_argument('files', metavar='recordings', nargs='+', type=argparse.FileType('r'), help='Audio recordings to process')
   return parser.parse_args()
 
@@ -232,11 +235,11 @@ def main():
   nopitch = not reduce(lambda accum, key: accum or argsDict[key], pitch_keys, False)
 
   if (args.rhythm_correlation or args.pitch_correlation) and not args.ratings_dir:
-    print >> sys.stderr, 'Ratings dir is not provided'
+    print >> sys.stderr, 'Cache dir is not provided for the ratings'
     exit(-1)
 
   values = entropy.run(args.files, norhythm = norhythm, nopitch = nopitch)
-
+  
   if args.onset_locations:
     generateOnsetLocations(values, args.output)
 
