@@ -59,7 +59,7 @@ See `./survey/graph.sh` to see and example use of it.
 ## Survey Results ##
 
 To reproduce the survey results, run `./survey/run.sh`. If you can't run sh,
-files, all it does is run the following line: (assuming the cwd is './survey`)
+files, all it does is run the following line: (assuming the cwd is `./survey`)
 `python ../bin/correlate.py ./clips/wav ./ratings ./results`
 
 ### Audio ###
