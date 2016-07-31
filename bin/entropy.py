@@ -32,9 +32,12 @@ def compute_rhythm(recording):
   onsets = onsets_string.strip().split('\n')
   onsets = [float(onset) for onset in onsets]
   diffs = numpy.abs(numpy.diff(onsets))
+
+  #hist = numpy.histogram(diffs, bins = 1000, range = (0, 10))[0]
   grid = numpy.linspace(0, 10, 1000)
-  density = scipy.stats.gaussian_kde(diffs)
+  density = scipy.stats.gaussian_kde(diffs, bw_method = 1)
   hist = density(grid)
+
   entropy = scipy.stats.entropy(hist)
 
   logger.log(1, '%s rhythm %f', recording.name, entropy)

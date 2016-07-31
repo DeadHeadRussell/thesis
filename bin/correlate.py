@@ -41,10 +41,6 @@ def output_ratings(ratings, output):
     output.write('\n')
 
 def run():
-  if len(sys.argv) != 4 and len(sys.argv) != 5:
-    print >> sys.stderr, 'Usage: ./correlate <recordings dir> <ratings dir> <results dir> [<exclude>]'
-    exit(-1)
-
   clipsdir = sys.argv[1]
   ratingsdir = sys.argv[2]
   resultsdir = sys.argv[3]
@@ -108,6 +104,33 @@ def run():
   print 'Pitch correlation'
   print pitch_entropy
 
+def inter_user():
+  print 'Calculating ratings'
+
+  ratingsdir = sys.argv[2]
+  files = [open(os.path.join(ratingsdir, f)) for f in os.listdir(ratingsdir)]
+  corrs = []
+  for f in files:
+    other_files = filter(lambda x: x != f, files)
+    other_ratings = parse_ratings(other_files)
+    ratings = parse_ratings([f])
+    ratings_a = []
+    other_a = []
+    for rating in ratings:
+      other_rating = [r for r in other_ratings if r['song_id'] == rating['song_id']]
+      if other_rating:
+        ratings_a.append(rating['value'])
+        other_a.append(other_rating[0]['value'])
+    for f2 in files:
+      f2.seek(0)
+    corrs.append(scipy.stats.pearsonr(ratings_a, other_a)[0])
+  print numpy.mean(corrs), numpy.std(corrs)
+
 if __name__ == '__main__':
+  if len(sys.argv) != 4 and len(sys.argv) != 5:
+    print >> sys.stderr, 'Usage: ./correlate <recordings dir> <ratings dir> <results dir> [<exclude>]'
+    exit(-1)
+
   run()
+  inter_user()
 

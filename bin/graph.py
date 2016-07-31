@@ -102,7 +102,7 @@ def generateOnsetHistogram(values, output):
       plt.title('Onset Diff Histogram')
       plt.ylabel('Count')
       plt.xlabel('Onset Time Difference (s)')
-      plt.hist(diffs, bins=500, normed=True)
+      plt.hist(diffs, bins=100, range=(0, 10))#, normed=True)
 
     saveFigure(output_dir, getName(value), graph)
 
@@ -191,13 +191,19 @@ def generateCorrelation(values, output, ratings_dir, corType):
       proRatingsList.append(rating['value'])
       proEntropiesList.append(entropies[song_id])
 
+  entropiesList = amEntropiesList + proEntropiesList
+  fit = numpy.poly1d(numpy.polyfit(entropiesList, amRatingsList + proRatingsList, 1))
+
   def graph(plt):
     plt.title('Correlation (' + corType + ')')
     plt.ylabel('Ratings')
     plt.xlabel('Entropies')
     plt.plot(proEntropiesList, proRatingsList, 'bo', label = 'Professional')
     plt.plot(amEntropiesList, amRatingsList, 'rs', label = 'Amateur')
-    plt.legend(('Profressional', 'Amateur'), numpoints = 1)
+    plt.plot(numpy.mean(proEntropiesList), numpy.mean(proRatingsList), 'gv', label = 'Pro')
+    plt.plot(numpy.mean(amEntropiesList), numpy.mean(amRatingsList), 'y^', label = 'Ama')
+    plt.plot(entropiesList, fit(entropiesList), 'black')
+    plt.legend(('Pro', 'Ama', 'Pro Mean', 'Ama Mean'), numpoints = 1)
 
   saveFigure(output_dir, corType, graph)
 

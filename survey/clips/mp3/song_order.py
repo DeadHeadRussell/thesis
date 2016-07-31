@@ -16,7 +16,7 @@ def create_order(number_songs):
 
 if __name__ == '__main__':
   with file('./song_ratings.txt', 'w') as out:
-    #for number in create_order(20):
-    for number in create_order(len(a_songs) + len(b_songs)):
+    for number in create_order(20):
+    #for number in create_order(len(a_songs) + len(b_songs)):
       print('{:0>2d}'.format(number), 'X', sep='\t', file=out)
 
